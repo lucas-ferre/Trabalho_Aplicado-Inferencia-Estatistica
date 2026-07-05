@@ -1,7 +1,7 @@
 # Trabalho Aplicado — Inferência Estatística
 
 **Tema:** Intenção de mudança de emprego entre profissionais de Ciência de Dados |
-**Aluno:** Lucas Ferreira da Silva — 567414
+**Aluno:** Lucas Ferreira da Silva — 567414 |
 **Disciplina:** Análise Inferencial
 
 Aplicação dos métodos de inferência estatística (planejamento amostral,
