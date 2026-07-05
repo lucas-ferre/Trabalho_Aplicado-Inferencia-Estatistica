@@ -1,0 +1,25 @@
+# Ferramentas de assistente / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Material didático da disciplina 
+Material de Apoio/
+
+# Compactados redundantes (o conteúdo extraído já está versionado)
+RH - Novas opor/archive.zip

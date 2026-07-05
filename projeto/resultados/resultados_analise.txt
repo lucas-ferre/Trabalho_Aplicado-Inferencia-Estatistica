@@ -1,0 +1,365 @@
+
+==============================================================================
+0. POPULAÇÃO DE ESTUDO
+==============================================================================
+Tamanho da população (N): 19158
+Variáveis de interesse:
+  - training_hours: horas de treinamento concluídas (quantitativa)
+  - target: busca nova oportunidade de emprego? 1=sim, 0=não (qualitativa)
+  - city_development_index (CDI): desenvolvimento da cidade (quantitativa)
+  - relevent_experience: possui experiência relevante na área (qualitativa)
+  - company_type: tipo de empresa em que trabalha (qualitativa)
+  - education_level: nível de escolaridade (qualitativa ordinal)
+  - experience: anos de experiência profissional (qualitativa ordinal)
+
+==============================================================================
+1. PLANEJAMENTO AMOSTRAL
+==============================================================================
+Nível de confiança adotado: 95% (alpha = 0.05)
+Método de amostragem: amostragem aleatória simples sem reposição
+
+1.1 Amostra piloto (n = 50)
+  Desvio-padrão amostral de training_hours (piloto): 55.82 h
+  Proporção de candidatos que buscam mudança (piloto): 0.28
+  Proporção de registros sem informação de empresa (piloto): 0.38
+
+1.2 Tamanho de amostra para a média (delta = 10 h, poder = 80%)
+  n inicial (quantis da normal): 245
+  n refinado (quantis da t-Student): 247
+  n com correção para população finita: 244
+
+1.3 Tamanho de amostra para a proporção (E = 0,04; p conservador = 0,5)
+  n inicial: 601
+  n com correção para população finita: 583
+
+1.4 Tamanho de amostra para os testes qui-quadrado (w = 0,15, poder = 80%)
+  company_type (4x2, gl=3): n = 485; ajustado p/ dados faltantes: 782
+  education_level (5x2, gl=4): n = 531; ajustado p/ dados faltantes: 531
+  experience (5x2, gl=4): n = 531; ajustado p/ dados faltantes: 531
+  n com correção para população finita: 752
+
+1.5 Tamanho final da amostra: n = max(244, 583, 752) = 752
+
+==============================================================================
+2. SELEÇÃO DA AMOSTRA ALEATÓRIA
+==============================================================================
+Amostra de n = 752 selecionada sem reposição (semente = 2026).
+Variáveis derivadas criadas: faixa_experiencia (5 faixas), tipo_empresa (4 grupos) e sem_info_empresa (flag de ausência).
+Arquivo salvo em: dados/amostra_final.csv
+
+==============================================================================
+3. ANÁLISE DESCRITIVA (com base na amostra)
+==============================================================================
+
+3.1 Medidas descritivas de training_hours
+count    752.00
+mean      63.73
+std       57.30
+min        1.00
+25%       23.00
+50%       48.00
+75%       88.00
+max      334.00
+  Assimetria: 1.89
+
+3.2 Tabela de frequências de target
+                   Frequência  Proporção
+target                                  
+Não busca mudança         557     0.7407
+Busca mudança             195     0.2593
+
+3.3 Tabela de frequências de relevent_experience
+                         Frequência  Proporção
+relevent_experience                           
+Has relevent experience         557     0.7407
+No relevent experience          195     0.2593
+
+3.4 Tipo de empresa (agrupado; inclui ausência de informação)
+                 Frequência  Proporção
+Empresa privada         407     0.5412
+Sem informação          235     0.3125
+Startup                  53     0.0705
+Setor público            34     0.0452
+ONG/Outros               23     0.0306
+  Taxa de busca por mudança por disponibilidade de informação de empresa:
+                    taxa    n
+sem_info_empresa             
+Com informação    0.2128  517
+Sem informação    0.3617  235
+
+3.5 Nível de escolaridade
+                 Frequência  Proporção
+education_level                       
+Graduate                472     0.6277
+Masters                 167     0.2221
+High School              74     0.0984
+Phd                      15     0.0199
+Primary School           13     0.0173
+NaN                      11     0.0146
+
+3.6 Faixa de experiência profissional
+                   Frequência  Proporção
+faixa_experiencia                       
+<1                         16     0.0213
+1-5                       214     0.2846
+6-10                      212     0.2819
+11-20                     170     0.2261
+>20                       134     0.1782
+
+3.7 city_development_index por grupo de target
+                   count   mean    std    min  median    max
+target                                                      
+Busca mudança        195  0.761  0.148  0.479   0.767  0.939
+Não busca mudança    557  0.856  0.103  0.493   0.910  0.949
+
+Figuras 1 a 9 salvas em projeto/figuras/.
+
+==============================================================================
+4. ESTIMAÇÃO PONTUAL
+==============================================================================
+Média amostral de training_hours (x̄): 63.73 h  (estima μ)
+Desvio-padrão amostral (s): 57.30 h
+Proporção amostral de candidatos buscando mudança (p̂): 0.2593  (estima p)
+  (195 sucessos em 752 observações)
+
+==============================================================================
+5. ESTIMAÇÃO INTERVALAR (IC 95%)
+==============================================================================
+5.1 IC 95% para a média de training_hours (t-Student, variância desconhecida)
+  x̄ ± t(0,975; 751) · s/√n = 63.73 ± 4.10
+  IC95%(μ) = (59.63; 67.83) horas
+
+5.2 IC 95% para a proporção de candidatos que buscam mudança
+  Condição n·p̂·(1-p̂) = 144.4 ≥ 5 -> aproximação normal válida
+  Wald (aproximado):          IC95%(p) = (0.2280; 0.2906)
+  Clopper-Pearson (exato):    IC95%(p) = (0.2283; 0.2922)
+
+==============================================================================
+6. TESTES DE HIPÓTESES (alpha = 0,05)
+==============================================================================
+6.1 [Q1] Teste t para a média de training_hours
+    H0: μ = 60  vs  HA: μ ≠ 60   (referência de planejamento de trilhas)
+    Estatística t = 1.7846  (gl = 751)
+    p-valor = 0.0747
+    Decisão: Não rejeita H0
+
+6.2 [Q2] Teste z para a proporção de candidatos que buscam mudança
+    H0: p = 0,20  vs  HA: p > 0,20   (unilateral à direita)
+    Condições: n·p0 = 150 ≥ 5 e n·(1-p0) = 602 ≥ 5 -> OK
+    Estatística z = 4.0660
+    p-valor = 0.000024
+    (statsmodels: z = 4.0660, p-valor = 0.000024)
+    Decisão: Rejeita H0
+
+6.3 [Q3a] Teste t de Welch: CDI médio entre quem busca e quem não busca
+    H0: μ_busca = μ_nao_busca  vs  HA: μ_busca ≠ μ_nao_busca
+    n_busca = 195, n_nao_busca = 557
+    Médias: 0.7615 (busca) vs 0.8561 (não busca)
+    Razão entre desvios-padrão = 1.44 (< 2, mas Welch é mais robusto)
+    Estatística t = -8.2388  (gl = 262.4)
+    p-valor = 8.329e-15
+    Decisão: Rejeita H0
+
+6.4 [Q3b] Qui-quadrado de independência: faixa de experiência × target
+    H0: a faixa de experiência e a intenção de mudança são independentes
+    HA: existe associação entre experiência e intenção de mudança
+    Tabela de contingência (frequências observadas):
+target             Busca mudança  Não busca mudança
+faixa_experiencia                                  
+<1                             9                  7
+1-5                           70                144
+6-10                          58                154
+11-20                         36                134
+>20                           21                113
+    Frequências esperadas sob H0:
+target             Busca mudança  Não busca mudança
+faixa_experiencia                                  
+<1                           4.2               11.8
+1-5                         55.7              158.3
+6-10                        55.1              156.9
+11-20                       44.2              125.8
+>20                         34.8               99.2
+    Verificação da 'regra dos 5': menor esperada = 4.2 (≥1: sim); células com esperada < 5 = 10% (≤20%: sim) -> condições atendidas
+    Qui-quadrado = 22.3036  (gl = 4)
+    p-valor = 1.744e-04
+    V de Cramér = 0.173 (força da associação)
+    Decisão: Rejeita H0
+
+6.5 [Q4] Qui-quadrado de independência: experiência relevante × target
+    H0: possuir experiência relevante e a intenção de mudança são independentes
+    HA: existe associação entre experiência relevante e intenção de mudança
+    Tabela de contingência (frequências observadas):
+target                   Busca mudança  Não busca mudança
+relevent_experience                                      
+Has relevent experience            126                431
+No relevent experience              69                126
+    Frequências esperadas sob H0:
+target                   Busca mudança  Não busca mudança
+relevent_experience                                      
+Has relevent experience          144.4              412.6
+No relevent experience            50.6              144.4
+    Verificação da 'regra dos 5': menor esperada = 50.6 (≥1: sim); células com esperada < 5 = 0% (≤20%: sim) -> condições atendidas
+    Qui-quadrado = 11.5950  (gl = 1)
+    p-valor = 6.613e-04
+    V de Cramér = 0.124 (força da associação)
+    Decisão: Rejeita H0
+
+6.6 [Q5] Qui-quadrado de independência: tipo de empresa × target
+    (casos completos; categorias agrupadas para atender a regra dos 5:
+     Startup = Funded + Early Stage; ONG/Outros = NGO + Other)
+    Casos completos: 517 de 752 (68.8% da amostra)
+    H0: o tipo de empresa e a intenção de mudança são independentes
+    HA: existe associação entre tipo de empresa e intenção de mudança
+    Tabela de contingência (frequências observadas):
+target           Busca mudança  Não busca mudança
+tipo_empresa                                     
+Empresa privada             88                319
+Startup                      8                 45
+Setor público               11                 23
+ONG/Outros                   3                 20
+    Frequências esperadas sob H0:
+target           Busca mudança  Não busca mudança
+tipo_empresa                                     
+Empresa privada           86.6              320.4
+Startup                   11.3               41.7
+Setor público              7.2               26.8
+ONG/Outros                 4.9               18.1
+    Verificação da 'regra dos 5': menor esperada = 4.9 (≥1: sim); células com esperada < 5 = 12% (≤20%: sim) -> condições atendidas
+    Qui-quadrado = 4.6595  (gl = 3)
+    p-valor = 1.985e-01
+    V de Cramér = 0.095 (força da associação)
+    Decisão: Não rejeita H0
+
+6.7 [Q5 - complemento] Qui-quadrado: ausência de informação de empresa × target
+    Motivação: a ausência de company_type pode ser INFORMATIVA (MNAR) —
+    candidatos sem vínculo empregatício declarado tendem a não preencher
+    o campo e podem ter maior propensão à mudança.
+    H0: a ausência de informação de empresa e a intenção de mudança são independentes
+    HA: a ausência de informação de empresa está associada à intenção de mudança
+    Tabela de contingência (frequências observadas):
+target            Busca mudança  Não busca mudança
+sem_info_empresa                                  
+Com informação              110                407
+Sem informação               85                150
+    Frequências esperadas sob H0:
+target            Busca mudança  Não busca mudança
+sem_info_empresa                                  
+Com informação            134.1              382.9
+Sem informação             60.9              174.1
+    Verificação da 'regra dos 5': menor esperada = 60.9 (≥1: sim); células com esperada < 5 = 0% (≤20%: sim) -> condições atendidas
+    Qui-quadrado = 17.8916  (gl = 1)
+    p-valor = 2.339e-05
+    V de Cramér = 0.154 (força da associação)
+    Decisão: Rejeita H0
+
+6.8 [Q6] Qui-quadrado de independência: nível de escolaridade × target
+    Casos completos: 741 de 752 (98.5% da amostra)
+    H0: o nível de escolaridade e a intenção de mudança são independentes
+    HA: existe associação entre escolaridade e intenção de mudança
+    Tabela de contingência (frequências observadas):
+target           Busca mudança  Não busca mudança
+education_level                                  
+Primary School               2                 11
+High School                 16                 58
+Graduate                   141                331
+Masters                     29                138
+Phd                          4                 11
+    Frequências esperadas sob H0:
+target           Busca mudança  Não busca mudança
+education_level                                  
+Primary School             3.4                9.6
+High School               19.2               54.8
+Graduate                 122.3              349.7
+Masters                   43.3              123.7
+Phd                        3.9               11.1
+    Verificação da 'regra dos 5': menor esperada = 3.4 (≥1: sim); células com esperada < 5 = 20% (≤20%: sim) -> condições atendidas
+    Qui-quadrado = 11.6763  (gl = 4)
+    p-valor = 1.993e-02
+    V de Cramér = 0.126 (força da associação)
+    Decisão: Rejeita H0
+
+6.9 [Q7] Teste z para duas proporções: matrícula integral vs sem matrícula
+    H0: p_integral = p_sem_matricula  vs  HA: p_integral > p_sem_matricula
+    Justificativa da direção (definida a priori): quem cursa universidade
+    em tempo integral está investindo em requalificação e, pela literatura
+    de mobilidade ocupacional, tende a maior propensão à mudança.
+    Grupos: integral n1 = 140 (p̂1 = 0.4429); sem matrícula n2 = 556 (p̂2 = 0.2086)
+    Proporção combinada (pooled): p̂ = 0.2557
+    Condições: n1·p̂·(1-p̂) = 26.6 e n2·p̂·(1-p̂) = 105.8 (ambas ≥ 5) -> OK
+    Estatística z = 5.6776
+    p-valor = 0.000000
+    (statsmodels: z = 5.6776, p-valor = 0.000000)
+    IC95%(p1 - p2) = (0.1453; 0.3232)
+    Decisão: Rejeita H0
+
+6.10 [Q8] Qui-quadrado de aderência: faixas de experiência (amostra vs população)
+    H0: a distribuição das faixas de experiência na amostra segue as
+        proporções populacionais conhecidas (amostra representativa)
+    HA: pelo menos uma proporção difere
+    Observação: como a população é totalmente conhecida (censo), as
+    proporções de referência são fixadas a priori -> gl = k - 1.
+                   Proporção populacional  Freq. observada  Freq. esperada
+faixa_experiencia                                                         
+<1                                 0.0273               16            20.4
+1-5                                0.3071              214           229.1
+6-10                               0.2625              212           195.8
+11-20                              0.2310              170           172.3
+>20                                0.1721              134           128.4
+    Casos válidos na amostra: 746 de 752
+    Menor frequência esperada = 20.4 (≥ 5 -> condição atendida)
+    Qui-quadrado = 3.5590  (gl = 4)
+    p-valor = 0.4690
+    Decisão: Não rejeita H0
+    Interpretação: a não rejeição corrobora a representatividade da
+    amostra aleatória simples quanto ao perfil de experiência.
+
+==============================================================================
+7. VERIFICAÇÃO DAS CONDIÇÕES DE APLICAÇÃO E DISCUSSÃO DE VIESES
+==============================================================================
+- Independência: amostragem aleatória simples sem reposição com n/N = 0.039 (< 10% da população) -> observações aproximadamente independentes.
+- Normalidade de training_hours: distribuição assimétrica à direita (Figuras 1 e 5). Teste formal abaixo:
+    Lilliefors: estatística = 0.1451, p-valor = 0.0010 -> rejeita normalidade
+  Contudo, como n = 752 é grande, o Teorema Central do Limite garante que a distribuição amostral de x̄ é aproximadamente normal, validando o IC e o teste t para a média.
+- Proporção: condições np ≥ 5 verificadas nos itens 5.2 e 6.2.
+- Qui-quadrado (independência e aderência): 'regra dos 5' verificada individualmente em cada teste (itens 6.4 a 6.10); categorias raras de company_type foram agrupadas.
+- Duas proporções (item 6.9): grupos desbalanceados (~20% vs ~72% da amostra), mas ambas as condições np ≥ 5 são amplamente atendidas.
+
+Vieses e limitações identificados (impactam a interpretação, não a validade
+interna dos procedimentos):
+  1. Viés de seleção: a população é composta por candidatos inscritos em
+     treinamentos da empresa (autosseleção de pessoas em requalificação,
+     naturalmente mais propensas à mobilidade). As conclusões valem para
+     essa população, e NÃO para profissionais de dados em geral.
+  2. Concentração geográfica: poucas cidades concentram grande parte dos
+     registros, e o CDI é um proxy socioeconômico REGIONAL, não um atributo
+     individual. A associação CDI × mudança (item 6.3) deve ser lida como
+     efeito de contexto, não de mérito individual.
+  3. Ausência informativa (MNAR): company_type/company_size faltam juntas
+     em cerca de 1/3 dos registros e a ausência está associada ao alvo
+     (item 6.7). Por isso a ausência foi tratada como categoria própria em
+     análise complementar, e não descartada silenciosamente.
+  4. Variável gender: não utilizada nos testes por ter 23,5% de dados
+     faltantes e forte desbalanceamento (Male ~69%, Female ~6,5%), o que
+     fragilizaria qualquer conclusão e envolveria riscos de interpretação
+     discriminatória em contexto de RH (discriminação por proxy).
+  5. Viés de rótulo: a definição operacional de 'busca mudança' (target)
+     não é documentada pela fonte (auto-relato? comportamento?), o que é
+     uma ameaça à validade de constructo que não podemos verificar.
+
+==============================================================================
+8. COMPARAÇÃO COM OS VALORES POPULACIONAIS (validação)
+==============================================================================
+Média populacional de training_hours: μ = 65.37 h (IC obtido: 59.63 a 67.83)
+Proporção populacional de target = 1:  p = 0.2493 (IC obtido: 0.2280 a 0.2906)
+CDI médio populacional: busca = 0.7557, não busca = 0.8531
+
+Taxa populacional de busca por mudança, por grupo:
+  faixa_experiencia: 1-5 = 0.333; 11-20 = 0.181; 6-10 = 0.252; <1 = 0.454; >20 = 0.153
+  tipo_empresa: Empresa privada = 0.181; ONG/Outros = 0.196; Setor público = 0.22; Startup = 0.176
+  sem_info_empresa: Com informação = 0.184; Sem informação = 0.388
+  education_level: Graduate = 0.28; High School = 0.195; Masters = 0.214; Phd = 0.14; Primary School = 0.133
+  relevent_experience: Has relevent experience = 0.215; No relevent experience = 0.338
+  enrolled_university: Full time course = 0.381; Part time course = 0.252; no_enrollment = 0.211
+
+Análise concluída. Para salvar a saída em arquivo, redirecione:
+  python codigo/analise_inferencial.py > "resultados/resultados_analise.txt"

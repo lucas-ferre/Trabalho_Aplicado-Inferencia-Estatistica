@@ -1,0 +1,753 @@
+enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours,target,faixa_experiencia,tipo_empresa,sem_info_empresa
+17410,city_24,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,9,100-500,Pvt Ltd,2,48,0.0,6-10,Empresa privada,Com informação
+6352,city_75,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,7,50-99,Funded Startup,1,30,0.0,6-10,Startup,Com informação
+12705,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,14,,,>4,182,0.0,11-20,,Sem informação
+10381,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Humanities,19,10000+,Pvt Ltd,,13,1.0,11-20,Empresa privada,Com informação
+32963,city_103,0.92,,No relevent experience,no_enrollment,Graduate,STEM,18,1000-4999,Public Sector,1,80,0.0,11-20,Setor público,Com informação
+15502,city_67,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Funded Startup,>4,23,0.0,6-10,Startup,Com informação
+32809,city_21,0.624,Male,Has relevent experience,Full time course,Masters,STEM,10,<10,Pvt Ltd,1,76,1.0,6-10,Empresa privada,Com informação
+5094,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,>4,53,0.0,>20,Empresa privada,Com informação
+20257,city_160,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,39,1.0,>20,,Sem informação
+20338,city_145,0.555,,No relevent experience,Full time course,High School,,4,,,1,73,1.0,1-5,,Sem informação
+24906,city_123,0.738,Male,Has relevent experience,no_enrollment,Masters,STEM,19,50-99,Pvt Ltd,>4,18,0.0,11-20,Empresa privada,Com informação
+2293,city_128,0.527,Male,Has relevent experience,no_enrollment,Graduate,STEM,<1,50-99,Pvt Ltd,1,22,1.0,<1,Empresa privada,Com informação
+22683,city_36,0.893,Male,Has relevent experience,no_enrollment,Masters,STEM,5,50-99,Pvt Ltd,2,65,0.0,1-5,Empresa privada,Com informação
+29440,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,<10,,2,60,1.0,1-5,,Sem informação
+24516,city_103,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,,,>4,18,0.0,>20,,Sem informação
+9505,city_102,0.804,,Has relevent experience,no_enrollment,Graduate,STEM,7,,,1,47,0.0,6-10,,Sem informação
+10268,city_61,0.913,Male,No relevent experience,Full time course,High School,,2,500-999,Public Sector,2,26,1.0,1-5,Setor público,Com informação
+26218,city_103,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,10,1000-4999,Pvt Ltd,2,90,1.0,6-10,Empresa privada,Com informação
+17088,city_103,0.92,,No relevent experience,Full time course,Graduate,STEM,1,5000-9999,,never,3,1.0,1-5,,Sem informação
+7197,city_160,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-500,,1,22,0.0,6-10,,Sem informação
+10704,city_152,0.698,Male,Has relevent experience,Part time course,Masters,STEM,10,,,3,18,0.0,6-10,,Sem informação
+12362,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,<1,10000+,Pvt Ltd,,28,1.0,<1,Empresa privada,Com informação
+11754,city_36,0.893,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,60,0.0,11-20,Empresa privada,Com informação
+9998,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,5,10/49,Pvt Ltd,4,128,0.0,1-5,Empresa privada,Com informação
+29679,city_136,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,5,<10,Pvt Ltd,1,76,0.0,1-5,Empresa privada,Com informação
+208,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,58,1.0,>20,Empresa privada,Com informação
+21635,city_21,0.624,,Has relevent experience,Full time course,Graduate,STEM,,5000-9999,Pvt Ltd,1,242,0.0,,Empresa privada,Com informação
+24931,city_10,0.895,Male,Has relevent experience,no_enrollment,Masters,STEM,14,100-500,Pvt Ltd,1,83,0.0,11-20,Empresa privada,Com informação
+31408,city_138,0.836,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,500-999,Pvt Ltd,>4,26,0.0,11-20,Empresa privada,Com informação
+17693,city_83,0.923,Male,Has relevent experience,no_enrollment,Masters,STEM,8,10/49,Early Stage Startup,2,288,0.0,6-10,Startup,Com informação
+22865,city_160,0.92,Male,No relevent experience,Full time course,Graduate,STEM,5,1000-4999,Pvt Ltd,1,9,0.0,1-5,Empresa privada,Com informação
+18924,city_136,0.897,Female,Has relevent experience,no_enrollment,Masters,STEM,1,,,1,81,0.0,1-5,,Sem informação
+16789,city_28,0.939,,Has relevent experience,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,3,106,0.0,11-20,Empresa privada,Com informação
+27260,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Pvt Ltd,1,95,1.0,>20,Empresa privada,Com informação
+1370,city_11,0.55,Male,Has relevent experience,Full time course,Graduate,STEM,2,,,1,65,1.0,1-5,,Sem informação
+14432,city_71,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10/49,Pvt Ltd,4,306,0.0,>20,Empresa privada,Com informação
+27946,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Funded Startup,>4,41,0.0,>20,Startup,Com informação
+20848,city_10,0.895,Female,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,1,94,0.0,11-20,Empresa privada,Com informação
+1940,city_10,0.895,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,100-500,Pvt Ltd,1,4,0.0,>20,Empresa privada,Com informação
+15714,city_136,0.897,Male,Has relevent experience,,Masters,STEM,9,10000+,Pvt Ltd,>4,42,0.0,6-10,Empresa privada,Com informação
+7811,city_36,0.893,,Has relevent experience,Part time course,High School,,,100-500,,,94,0.0,,,Sem informação
+10416,city_160,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,7,50-99,,1,146,0.0,6-10,,Sem informação
+8717,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,100-500,Pvt Ltd,3,106,1.0,1-5,Empresa privada,Com informação
+31023,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Early Stage Startup,1,27,0.0,1-5,Startup,Com informação
+28650,city_71,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,1,16,0.0,11-20,Empresa privada,Com informação
+20014,city_16,0.91,Male,Has relevent experience,no_enrollment,High School,,<1,10/49,Pvt Ltd,>4,57,0.0,<1,Empresa privada,Com informação
+20396,city_115,0.789,Female,Has relevent experience,Full time course,Phd,STEM,8,100-500,Pvt Ltd,>4,11,0.0,6-10,Empresa privada,Com informação
+2520,city_65,0.802,,Has relevent experience,Full time course,Graduate,STEM,8,500-999,Pvt Ltd,1,50,1.0,6-10,Empresa privada,Com informação
+12497,city_65,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10/49,Early Stage Startup,>4,6,0.0,11-20,Startup,Com informação
+273,city_21,0.624,Male,No relevent experience,Full time course,High School,,5,,,never,18,0.0,1-5,,Sem informação
+29407,city_65,0.802,Male,Has relevent experience,,,,>20,1000-4999,Pvt Ltd,,6,0.0,>20,Empresa privada,Com informação
+13574,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,316,0.0,6-10,Empresa privada,Com informação
+20726,city_71,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,1,232,0.0,>20,Empresa privada,Com informação
+11930,city_102,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,67,0.0,>20,Empresa privada,Com informação
+28568,city_136,0.897,Male,Has relevent experience,Full time course,Graduate,Humanities,2,,,never,40,0.0,1-5,,Sem informação
+19606,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,7,5000-9999,Pvt Ltd,1,26,1.0,6-10,Empresa privada,Com informação
+26775,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,>4,114,0.0,>20,Empresa privada,Com informação
+6961,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,2,161,0.0,1-5,Empresa privada,Com informação
+29627,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,15,,,2,87,0.0,11-20,,Sem informação
+32110,city_10,0.895,,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,40,0.0,>20,,Sem informação
+22899,city_100,0.887,,Has relevent experience,no_enrollment,Masters,STEM,9,100-500,Pvt Ltd,1,31,1.0,6-10,Empresa privada,Com informação
+25021,city_114,0.926,,No relevent experience,Full time course,High School,,10,10/49,Early Stage Startup,1,16,0.0,6-10,Startup,Com informação
+25645,city_162,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,10/49,Pvt Ltd,1,30,0.0,6-10,Empresa privada,Com informação
+6848,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,>4,22,1.0,6-10,Empresa privada,Com informação
+27696,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,56,0.0,>20,Empresa privada,Com informação
+10421,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,19,0.0,>20,Empresa privada,Com informação
+18906,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-500,Pvt Ltd,1,54,0.0,1-5,Empresa privada,Com informação
+16817,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,7,100-500,Pvt Ltd,1,11,0.0,6-10,Empresa privada,Com informação
+21289,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,No Major,5,10/49,Pvt Ltd,3,6,1.0,1-5,Empresa privada,Com informação
+16974,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,,,2,112,1.0,1-5,,Sem informação
+15035,city_57,0.866,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Pvt Ltd,1,66,0.0,6-10,Empresa privada,Com informação
+18506,city_21,0.624,Male,Has relevent experience,Full time course,Masters,STEM,1,50-99,Pvt Ltd,1,22,0.0,1-5,Empresa privada,Com informação
+19045,city_116,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,1,34,0.0,>20,,Sem informação
+21253,city_103,0.92,,No relevent experience,Full time course,Graduate,STEM,5,,,1,42,1.0,1-5,,Sem informação
+425,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Pvt Ltd,2,12,0.0,6-10,Empresa privada,Com informação
+33360,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,17,,,>4,65,1.0,11-20,,Sem informação
+32928,city_16,0.91,Female,No relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,1,28,1.0,6-10,Empresa privada,Com informação
+9211,city_100,0.887,Female,Has relevent experience,no_enrollment,Graduate,No Major,5,,,,12,0.0,1-5,,Sem informação
+792,city_23,0.899,Male,No relevent experience,Part time course,Graduate,STEM,5,10000+,Pvt Ltd,3,5,0.0,1-5,Empresa privada,Com informação
+14877,city_23,0.899,Female,Has relevent experience,no_enrollment,Masters,STEM,16,10000+,Pvt Ltd,>4,50,0.0,11-20,Empresa privada,Com informação
+23205,city_97,0.925,Male,Has relevent experience,no_enrollment,Masters,STEM,19,10/49,Pvt Ltd,1,58,0.0,11-20,Empresa privada,Com informação
+3744,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,100-500,Pvt Ltd,1,20,0.0,11-20,Empresa privada,Com informação
+16112,city_46,0.762,,Has relevent experience,no_enrollment,Masters,STEM,4,1000-4999,Pvt Ltd,2,42,0.0,1-5,Empresa privada,Com informação
+10473,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,<10,Pvt Ltd,2,2,1.0,1-5,Empresa privada,Com informação
+22307,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,10000+,Pvt Ltd,>4,28,0.0,>20,Empresa privada,Com informação
+9120,city_21,0.624,Male,No relevent experience,Full time course,Graduate,STEM,2,,,never,31,0.0,1-5,,Sem informação
+17465,city_10,0.895,Female,No relevent experience,Full time course,Graduate,STEM,7,,NGO,1,21,1.0,6-10,ONG/Outros,Com informação
+7716,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,10/49,Pvt Ltd,1,68,0.0,6-10,Empresa privada,Com informação
+1817,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,47,0.0,11-20,Empresa privada,Com informação
+18265,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,>20,,,>4,89,1.0,>20,,Sem informação
+30829,city_99,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10/49,Pvt Ltd,>4,23,0.0,>20,Empresa privada,Com informação
+2205,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,never,56,1.0,11-20,Empresa privada,Com informação
+12733,city_114,0.926,Male,Has relevent experience,no_enrollment,High School,,>20,10/49,Pvt Ltd,3,145,0.0,>20,Empresa privada,Com informação
+3193,city_142,0.727,,Has relevent experience,no_enrollment,Graduate,STEM,20,,,>4,37,0.0,11-20,,Sem informação
+29162,city_73,0.754,Male,Has relevent experience,Full time course,Graduate,STEM,12,,,1,91,1.0,11-20,,Sem informação
+11815,city_136,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Funded Startup,1,31,0.0,1-5,Startup,Com informação
+28942,city_102,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,,,1,34,0.0,6-10,,Sem informação
+17750,city_103,0.92,,No relevent experience,Full time course,,,5,10/49,,4,48,0.0,1-5,,Sem informação
+5763,city_149,0.6890000000000001,Male,Has relevent experience,no_enrollment,Primary School,,16,,,>4,154,0.0,11-20,,Sem informação
+32691,city_46,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,50-99,Pvt Ltd,never,64,0.0,11-20,Empresa privada,Com informação
+7635,city_89,0.925,Male,Has relevent experience,Full time course,Graduate,STEM,11,50-99,,,270,0.0,11-20,,Sem informação
+19070,city_16,0.91,Female,No relevent experience,,High School,,3,,,never,122,0.0,1-5,,Sem informação
+18401,city_11,0.55,,Has relevent experience,no_enrollment,Graduate,STEM,5,10/49,Pvt Ltd,3,29,1.0,1-5,Empresa privada,Com informação
+4648,city_16,0.91,Female,Has relevent experience,no_enrollment,Graduate,STEM,4,,,1,108,0.0,1-5,,Sem informação
+31146,city_10,0.895,Male,Has relevent experience,Part time course,Graduate,STEM,3,10/49,Pvt Ltd,never,33,0.0,1-5,Empresa privada,Com informação
+18749,city_55,0.7390000000000001,,No relevent experience,no_enrollment,Graduate,STEM,9,,,,2,1.0,6-10,,Sem informação
+25888,city_21,0.624,Male,No relevent experience,Full time course,High School,,6,,,never,44,1.0,6-10,,Sem informação
+18750,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,10/49,Early Stage Startup,>4,119,0.0,11-20,Startup,Com informação
+32313,city_160,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,100-500,Public Sector,3,23,0.0,6-10,Setor público,Com informação
+18254,city_103,0.92,,No relevent experience,no_enrollment,High School,,<1,,,,57,0.0,<1,,Sem informação
+6018,city_114,0.926,Male,Has relevent experience,Full time course,Masters,STEM,11,50-99,Pvt Ltd,1,24,0.0,11-20,Empresa privada,Com informação
+6730,city_23,0.899,Male,Has relevent experience,no_enrollment,High School,,8,50-99,Public Sector,1,34,0.0,6-10,Setor público,Com informação
+9513,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,,,1,77,0.0,>20,,Sem informação
+21560,city_114,0.926,Male,Has relevent experience,no_enrollment,High School,,>20,50-99,Pvt Ltd,2,37,0.0,>20,Empresa privada,Com informação
+25589,city_75,0.939,Male,No relevent experience,Full time course,High School,,7,5000-9999,Pvt Ltd,2,48,0.0,6-10,Empresa privada,Com informação
+17753,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,50-99,Pvt Ltd,1,92,0.0,11-20,Empresa privada,Com informação
+11142,city_138,0.836,Male,Has relevent experience,Full time course,Graduate,STEM,2,100-500,Pvt Ltd,1,104,0.0,1-5,Empresa privada,Com informação
+19379,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,>4,26,0.0,11-20,Empresa privada,Com informação
+23417,city_114,0.926,,No relevent experience,no_enrollment,Masters,STEM,14,1000-4999,Pvt Ltd,2,23,0.0,11-20,Empresa privada,Com informação
+15487,city_28,0.939,,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,1,89,0.0,>20,Empresa privada,Com informação
+23482,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Pvt Ltd,>4,56,0.0,11-20,Empresa privada,Com informação
+6284,city_116,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,11,,,1,28,1.0,11-20,,Sem informação
+11834,city_114,0.926,,Has relevent experience,Part time course,Graduate,STEM,15,10/49,Pvt Ltd,>4,73,0.0,11-20,Empresa privada,Com informação
+16592,city_16,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,18,5000-9999,Pvt Ltd,2,99,0.0,11-20,Empresa privada,Com informação
+13673,city_11,0.55,,Has relevent experience,no_enrollment,Masters,STEM,2,100-500,,1,56,0.0,1-5,,Sem informação
+21727,city_16,0.91,Male,No relevent experience,Full time course,Graduate,STEM,>20,,,2,32,1.0,>20,,Sem informação
+24917,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,<10,Pvt Ltd,1,204,0.0,1-5,Empresa privada,Com informação
+7952,city_21,0.624,Female,No relevent experience,Full time course,Graduate,STEM,6,10000+,Public Sector,1,15,1.0,6-10,Setor público,Com informação
+10871,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,3,100,0.0,>20,Empresa privada,Com informação
+21889,city_114,0.926,Male,Has relevent experience,no_enrollment,,,15,500-999,Pvt Ltd,>4,25,0.0,11-20,Empresa privada,Com informação
+7334,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-500,Pvt Ltd,3,43,0.0,6-10,Empresa privada,Com informação
+11509,city_21,0.624,,Has relevent experience,,Graduate,STEM,4,100-500,Pvt Ltd,4,26,1.0,1-5,Empresa privada,Com informação
+755,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,5,5000-9999,Pvt Ltd,1,25,1.0,1-5,Empresa privada,Com informação
+32534,city_102,0.804,Male,Has relevent experience,Full time course,Graduate,STEM,9,5000-9999,Pvt Ltd,1,74,0.0,6-10,Empresa privada,Com informação
+10988,city_136,0.897,,Has relevent experience,no_enrollment,Masters,STEM,8,,Pvt Ltd,1,55,0.0,6-10,Empresa privada,Com informação
+641,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Arts,1,500-999,,1,154,0.0,1-5,,Sem informação
+20655,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,never,51,1.0,6-10,Empresa privada,Com informação
+27407,city_98,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10000+,Pvt Ltd,1,45,0.0,11-20,Empresa privada,Com informação
+17629,city_57,0.866,Male,Has relevent experience,no_enrollment,Masters,STEM,19,,,3,101,1.0,11-20,,Sem informação
+19767,city_50,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,,,1,66,0.0,1-5,,Sem informação
+24944,city_21,0.624,Female,Has relevent experience,no_enrollment,Graduate,STEM,2,10000+,Pvt Ltd,never,44,0.0,1-5,Empresa privada,Com informação
+30923,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,11,0.0,>20,Empresa privada,Com informação
+5311,city_100,0.887,,No relevent experience,Part time course,Graduate,STEM,>20,,,2,12,1.0,>20,,Sem informação
+12713,city_114,0.926,,Has relevent experience,no_enrollment,Phd,Humanities,1,50-99,Pvt Ltd,1,10,0.0,1-5,Empresa privada,Com informação
+3649,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,>20,,Public Sector,>4,43,1.0,>20,Setor público,Com informação
+7014,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Public Sector,1,83,0.0,>20,Setor público,Com informação
+8196,city_100,0.887,Male,Has relevent experience,Full time course,Graduate,STEM,>20,,,1,50,1.0,>20,,Sem informação
+3540,city_71,0.884,Male,Has relevent experience,Part time course,Graduate,STEM,8,50-99,Pvt Ltd,2,69,0.0,6-10,Empresa privada,Com informação
+2679,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,6,10000+,Pvt Ltd,4,71,0.0,6-10,Empresa privada,Com informação
+16700,city_71,0.884,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,10/49,Funded Startup,1,94,0.0,1-5,Startup,Com informação
+20667,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,7,<10,Early Stage Startup,1,40,0.0,6-10,Startup,Com informação
+28681,city_103,0.92,Female,No relevent experience,no_enrollment,Graduate,STEM,1,,,1,23,1.0,1-5,,Sem informação
+18571,city_21,0.624,Female,Has relevent experience,,Masters,STEM,7,50-99,Pvt Ltd,1,12,1.0,6-10,Empresa privada,Com informação
+4014,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,4,22,0.0,1-5,Empresa privada,Com informação
+23023,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,100-500,Pvt Ltd,>4,20,0.0,6-10,Empresa privada,Com informação
+13795,city_16,0.91,,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,>4,66,0.0,6-10,Empresa privada,Com informação
+6255,city_160,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,1,16,0.0,>20,,Sem informação
+5694,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,2,<10,Pvt Ltd,never,37,1.0,1-5,Empresa privada,Com informação
+16182,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,1,16,0.0,1-5,Empresa privada,Com informação
+23900,city_61,0.913,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,50-99,Pvt Ltd,>4,12,0.0,>20,Empresa privada,Com informação
+22710,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,140,1.0,6-10,Empresa privada,Com informação
+9015,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,4,,,1,34,1.0,1-5,,Sem informação
+16926,city_114,0.926,,No relevent experience,Full time course,Graduate,STEM,5,500-999,Pvt Ltd,1,264,0.0,1-5,Empresa privada,Com informação
+1170,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,100-500,Pvt Ltd,>4,20,0.0,11-20,Empresa privada,Com informação
+25809,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,1000-4999,Pvt Ltd,4,23,0.0,11-20,Empresa privada,Com informação
+2956,city_65,0.802,Male,Has relevent experience,no_enrollment,Masters,STEM,6,,,2,85,0.0,6-10,,Sem informação
+27715,city_104,0.924,Male,No relevent experience,no_enrollment,High School,,>20,<10,Pvt Ltd,>4,35,0.0,>20,Empresa privada,Com informação
+24901,city_114,0.926,Male,No relevent experience,no_enrollment,,,3,,,never,47,0.0,1-5,,Sem informação
+20156,city_128,0.527,,Has relevent experience,no_enrollment,Graduate,STEM,9,,,>4,118,1.0,6-10,,Sem informação
+18980,city_136,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,2,59,0.0,11-20,Empresa privada,Com informação
+4789,city_67,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,1,210,0.0,6-10,Empresa privada,Com informação
+23712,city_143,0.74,Male,No relevent experience,no_enrollment,Masters,STEM,14,1000-4999,NGO,3,96,0.0,11-20,ONG/Outros,Com informação
+15814,city_159,0.843,,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Funded Startup,4,134,1.0,6-10,Startup,Com informação
+488,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,10000+,Pvt Ltd,3,32,0.0,6-10,Empresa privada,Com informação
+8080,city_21,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,3,10000+,Pvt Ltd,3,28,1.0,1-5,Empresa privada,Com informação
+32709,city_103,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,7,100-500,Pvt Ltd,2,22,0.0,6-10,Empresa privada,Com informação
+24881,city_90,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,6,<10,Pvt Ltd,1,46,0.0,6-10,Empresa privada,Com informação
+22070,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,,,1,136,0.0,>20,,Sem informação
+7970,city_45,0.89,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,65,0.0,>20,Empresa privada,Com informação
+24076,city_21,0.624,Male,Has relevent experience,Full time course,Masters,STEM,8,10000+,Pvt Ltd,4,122,0.0,6-10,Empresa privada,Com informação
+11399,city_13,0.8270000000000001,Female,Has relevent experience,no_enrollment,Graduate,Arts,4,,,1,132,1.0,1-5,,Sem informação
+12143,city_104,0.924,Male,No relevent experience,Full time course,Masters,STEM,>20,500-999,NGO,2,24,0.0,>20,ONG/Outros,Com informação
+19686,city_128,0.527,Male,No relevent experience,Full time course,High School,,7,,,1,44,1.0,6-10,,Sem informação
+29905,city_136,0.897,Female,Has relevent experience,no_enrollment,Masters,STEM,12,,,>4,35,0.0,11-20,,Sem informação
+15512,city_21,0.624,,No relevent experience,no_enrollment,High School,,6,,,>4,17,1.0,6-10,,Sem informação
+16746,city_103,0.92,Male,No relevent experience,no_enrollment,Primary School,,3,,,never,111,0.0,1-5,,Sem informação
+32134,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,,,1,4,0.0,11-20,,Sem informação
+30897,city_90,0.698,,Has relevent experience,Part time course,Graduate,STEM,<1,50-99,NGO,4,104,0.0,<1,ONG/Outros,Com informação
+16739,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,14,50-99,Early Stage Startup,4,19,1.0,11-20,Startup,Com informação
+32240,city_160,0.92,,No relevent experience,Full time course,High School,,<1,,,1,42,0.0,<1,,Sem informação
+22825,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,1,40,0.0,>20,Empresa privada,Com informação
+31800,city_28,0.939,Male,No relevent experience,Full time course,High School,,7,,,1,182,0.0,6-10,,Sem informação
+15941,city_128,0.527,Male,No relevent experience,no_enrollment,Graduate,Other,3,,,never,28,0.0,1-5,,Sem informação
+10283,city_142,0.727,Male,No relevent experience,Part time course,Masters,STEM,5,500-999,Public Sector,1,17,0.0,1-5,Setor público,Com informação
+14714,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,4,10/49,Pvt Ltd,4,109,1.0,1-5,Empresa privada,Com informação
+21072,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,2,50-99,Pvt Ltd,1,124,0.0,1-5,Empresa privada,Com informação
+21960,city_102,0.804,Female,No relevent experience,no_enrollment,Graduate,Humanities,1,,,1,190,0.0,1-5,,Sem informação
+3440,city_21,0.624,,No relevent experience,no_enrollment,Masters,STEM,3,50-99,Pvt Ltd,1,24,0.0,1-5,Empresa privada,Com informação
+29612,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,5,10/49,Pvt Ltd,1,8,1.0,1-5,Empresa privada,Com informação
+3099,city_23,0.899,Male,Has relevent experience,no_enrollment,Masters,STEM,18,10000+,Pvt Ltd,>4,14,0.0,11-20,Empresa privada,Com informação
+21145,city_173,0.878,,No relevent experience,no_enrollment,High School,,3,,,never,85,0.0,1-5,,Sem informação
+18321,city_75,0.939,,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,1,18,0.0,6-10,Empresa privada,Com informação
+31262,city_41,0.8270000000000001,Male,Has relevent experience,Part time course,High School,,16,50-99,,1,35,0.0,11-20,,Sem informação
+24679,city_21,0.624,,Has relevent experience,Full time course,Graduate,STEM,3,<10,Public Sector,1,43,1.0,1-5,Setor público,Com informação
+14013,city_103,0.92,,No relevent experience,Full time course,Masters,STEM,5,500-999,Public Sector,3,20,0.0,1-5,Setor público,Com informação
+2462,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10/49,,4,158,0.0,6-10,,Sem informação
+18283,city_103,0.92,Male,No relevent experience,no_enrollment,High School,,2,10000+,Public Sector,1,54,0.0,1-5,Setor público,Com informação
+8920,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10/49,Pvt Ltd,1,43,1.0,6-10,Empresa privada,Com informação
+12146,city_138,0.836,Male,Has relevent experience,no_enrollment,Masters,STEM,6,10000+,Pvt Ltd,1,28,0.0,6-10,Empresa privada,Com informação
+17628,city_116,0.743,,Has relevent experience,no_enrollment,High School,,1,1000-4999,Pvt Ltd,1,132,0.0,1-5,Empresa privada,Com informação
+29947,city_19,0.682,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10/49,Funded Startup,1,24,0.0,6-10,Startup,Com informação
+5949,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Pvt Ltd,>4,268,0.0,>20,Empresa privada,Com informação
+21324,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,10/49,Pvt Ltd,2,24,0.0,11-20,Empresa privada,Com informação
+14682,city_136,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,14,10000+,Pvt Ltd,>4,16,0.0,11-20,Empresa privada,Com informação
+16906,city_114,0.926,Male,No relevent experience,no_enrollment,Phd,STEM,>20,,,>4,16,0.0,>20,,Sem informação
+10599,city_65,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,never,108,0.0,6-10,Empresa privada,Com informação
+27633,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,1000-4999,Pvt Ltd,3,81,0.0,1-5,Empresa privada,Com informação
+30992,city_175,0.7759999999999999,Male,No relevent experience,Full time course,Graduate,STEM,4,,,never,52,0.0,1-5,,Sem informação
+30491,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10/49,Pvt Ltd,4,27,0.0,11-20,Empresa privada,Com informação
+15519,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,15,0.0,>20,,Sem informação
+8893,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,>20,10000+,Pvt Ltd,4,85,0.0,>20,Empresa privada,Com informação
+27052,city_23,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,100-500,Funded Startup,>4,96,0.0,11-20,Startup,Com informação
+23191,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,8,100-500,Funded Startup,1,48,0.0,6-10,Startup,Com informação
+32854,city_10,0.895,,No relevent experience,Full time course,High School,,8,,,,110,0.0,6-10,,Sem informação
+17468,city_118,0.722,Male,No relevent experience,Part time course,High School,,1,,,never,56,1.0,1-5,,Sem informação
+17984,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,2,134,0.0,>20,Empresa privada,Com informação
+12425,city_136,0.897,Male,No relevent experience,no_enrollment,Phd,STEM,>20,500-999,Public Sector,>4,22,0.0,>20,Setor público,Com informação
+1221,city_40,0.7759999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,1,32,0.0,6-10,Empresa privada,Com informação
+17636,city_114,0.926,Male,No relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,308,0.0,>20,Empresa privada,Com informação
+26762,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,17,500-999,Pvt Ltd,2,73,0.0,11-20,Empresa privada,Com informação
+19824,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,10,1000-4999,Pvt Ltd,>4,21,0.0,6-10,Empresa privada,Com informação
+20272,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Funded Startup,1,226,0.0,11-20,Startup,Com informação
+20810,city_16,0.91,,Has relevent experience,no_enrollment,Graduate,Arts,14,10/49,Pvt Ltd,3,42,0.0,11-20,Empresa privada,Com informação
+32010,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,11,10000+,Pvt Ltd,4,36,1.0,11-20,Empresa privada,Com informação
+15110,city_114,0.926,Male,No relevent experience,Full time course,High School,,5,,,2,111,0.0,1-5,,Sem informação
+11370,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Arts,>20,10000+,Pvt Ltd,1,10,1.0,>20,Empresa privada,Com informação
+7627,city_103,0.92,Female,No relevent experience,no_enrollment,Graduate,Business Degree,20,100-500,Pvt Ltd,>4,17,0.0,11-20,Empresa privada,Com informação
+3706,city_160,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,19,,,1,28,1.0,11-20,,Sem informação
+14317,city_103,0.92,Female,No relevent experience,no_enrollment,Masters,STEM,7,1000-4999,Pvt Ltd,2,22,0.0,6-10,Empresa privada,Com informação
+26521,city_19,0.682,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,73,0.0,6-10,Empresa privada,Com informação
+3703,city_16,0.91,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,,,3,52,0.0,>20,,Sem informação
+9512,city_103,0.92,Other,Has relevent experience,no_enrollment,Graduate,Humanities,<1,50-99,Funded Startup,1,56,0.0,<1,Startup,Com informação
+4895,city_102,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,15,100-500,Pvt Ltd,>4,42,0.0,11-20,Empresa privada,Com informação
+19360,city_103,0.92,Male,Has relevent experience,Part time course,High School,,8,,Public Sector,2,134,1.0,6-10,Setor público,Com informação
+5628,city_19,0.682,,Has relevent experience,no_enrollment,Graduate,STEM,4,500-999,,,12,0.0,1-5,,Sem informação
+23278,city_90,0.698,Male,Has relevent experience,Full time course,Masters,STEM,14,<10,Pvt Ltd,4,28,0.0,11-20,Empresa privada,Com informação
+11700,city_103,0.92,,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Public Sector,>4,131,0.0,>20,Setor público,Com informação
+19935,city_123,0.738,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,2,21,0.0,6-10,Empresa privada,Com informação
+22196,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,4,8,0.0,>20,,Sem informação
+27452,city_103,0.92,Male,No relevent experience,no_enrollment,Phd,STEM,10,,,1,21,1.0,6-10,,Sem informação
+17136,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,>4,28,0.0,11-20,Empresa privada,Com informação
+2241,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,10000+,Pvt Ltd,never,56,0.0,11-20,Empresa privada,Com informação
+28243,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10000+,Pvt Ltd,3,46,1.0,11-20,Empresa privada,Com informação
+22019,city_100,0.887,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,3,0.0,>20,,Sem informação
+19594,city_136,0.897,Male,No relevent experience,Full time course,Masters,STEM,14,,,2,44,0.0,11-20,,Sem informação
+8194,city_67,0.855,Male,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Pvt Ltd,2,24,0.0,6-10,Empresa privada,Com informação
+2154,city_50,0.8959999999999999,Male,Has relevent experience,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,2,78,0.0,11-20,Empresa privada,Com informação
+31030,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,50-99,Funded Startup,1,256,0.0,11-20,Startup,Com informação
+29642,city_76,0.698,Male,No relevent experience,Full time course,Graduate,STEM,3,,,1,19,1.0,1-5,,Sem informação
+14091,city_160,0.92,,No relevent experience,no_enrollment,Primary School,,4,,,never,26,0.0,1-5,,Sem informação
+17799,city_103,0.92,,Has relevent experience,no_enrollment,Masters,STEM,,10000+,,,64,0.0,,,Sem informação
+18251,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Humanities,3,10000+,Pvt Ltd,2,45,0.0,1-5,Empresa privada,Com informação
+838,city_73,0.754,Male,Has relevent experience,Part time course,Graduate,STEM,11,100-500,Pvt Ltd,>4,91,0.0,11-20,Empresa privada,Com informação
+14976,city_102,0.804,,Has relevent experience,no_enrollment,Graduate,STEM,10,,,never,9,1.0,6-10,,Sem informação
+22850,city_114,0.926,Female,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,2,18,0.0,6-10,Empresa privada,Com informação
+24147,city_65,0.802,Male,No relevent experience,Full time course,High School,,5,,,never,13,0.0,1-5,,Sem informação
+6187,city_67,0.855,Male,Has relevent experience,Part time course,High School,,4,1000-4999,Pvt Ltd,1,22,0.0,1-5,Empresa privada,Com informação
+21006,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,17,100-500,Pvt Ltd,2,84,0.0,11-20,Empresa privada,Com informação
+9179,city_48,0.493,,No relevent experience,no_enrollment,Graduate,STEM,2,,,1,23,0.0,1-5,,Sem informação
+4729,city_71,0.884,Male,No relevent experience,Full time course,Masters,STEM,9,,,1,100,1.0,6-10,,Sem informação
+17294,city_136,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,10000+,Pvt Ltd,2,80,0.0,1-5,Empresa privada,Com informação
+6765,city_100,0.887,,Has relevent experience,no_enrollment,High School,,8,50-99,Pvt Ltd,1,92,0.0,6-10,Empresa privada,Com informação
+14479,city_102,0.804,Male,Has relevent experience,no_enrollment,Masters,Business Degree,8,100-500,Pvt Ltd,1,78,0.0,6-10,Empresa privada,Com informação
+12183,city_28,0.939,Male,No relevent experience,Full time course,Graduate,STEM,7,,,2,31,1.0,6-10,,Sem informação
+10219,city_98,0.949,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,2,111,0.0,>20,Empresa privada,Com informação
+6156,city_71,0.884,Male,No relevent experience,Full time course,High School,,7,,,never,110,0.0,6-10,,Sem informação
+4583,city_50,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,100-500,Pvt Ltd,4,7,0.0,11-20,Empresa privada,Com informação
+12217,city_16,0.91,Male,Has relevent experience,Part time course,Graduate,STEM,10,50-99,Pvt Ltd,4,206,0.0,6-10,Empresa privada,Com informação
+19768,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,3,100-500,Pvt Ltd,1,64,1.0,1-5,Empresa privada,Com informação
+27532,city_103,0.92,Male,No relevent experience,no_enrollment,High School,,4,,,never,29,0.0,1-5,,Sem informação
+23239,city_27,0.848,Male,No relevent experience,no_enrollment,Graduate,STEM,2,,,never,18,0.0,1-5,,Sem informação
+30733,city_160,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,1,55,0.0,6-10,Empresa privada,Com informação
+4215,city_46,0.762,,Has relevent experience,no_enrollment,Masters,STEM,9,1000-4999,NGO,1,34,0.0,6-10,ONG/Outros,Com informação
+30107,city_118,0.722,Male,No relevent experience,Part time course,Graduate,STEM,3,100-500,Pvt Ltd,1,55,0.0,1-5,Empresa privada,Com informação
+3094,city_173,0.878,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,24,0.0,>20,Empresa privada,Com informação
+21981,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,8,,,1,3,0.0,6-10,,Sem informação
+3475,city_103,0.92,Male,Has relevent experience,no_enrollment,,,>20,100-500,Pvt Ltd,1,130,0.0,>20,Empresa privada,Com informação
+31919,city_45,0.89,Male,No relevent experience,Full time course,Graduate,STEM,5,,,3,89,1.0,1-5,,Sem informação
+28101,city_103,0.92,Female,Has relevent experience,no_enrollment,Masters,Humanities,3,,,1,2,0.0,1-5,,Sem informação
+31862,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,NGO,4,50,0.0,>20,ONG/Outros,Com informação
+27094,city_16,0.91,Female,Has relevent experience,no_enrollment,Graduate,STEM,20,50-99,Pvt Ltd,1,4,1.0,11-20,Empresa privada,Com informação
+32467,city_83,0.923,Male,Has relevent experience,no_enrollment,Graduate,Arts,4,10/49,Pvt Ltd,4,45,0.0,1-5,Empresa privada,Com informação
+4455,city_21,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,8,1000-4999,NGO,3,31,1.0,6-10,ONG/Outros,Com informação
+14696,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,,8,1.0,1-5,Empresa privada,Com informação
+16757,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,1,26,1.0,>20,,Sem informação
+10294,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,4,100-500,Pvt Ltd,4,4,1.0,1-5,Empresa privada,Com informação
+29845,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,8,100-500,Pvt Ltd,1,104,0.0,6-10,Empresa privada,Com informação
+24106,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,10/49,Pvt Ltd,4,72,0.0,6-10,Empresa privada,Com informação
+9864,city_11,0.55,Male,No relevent experience,no_enrollment,High School,,7,,,never,86,1.0,6-10,,Sem informação
+2608,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,10000+,Pvt Ltd,1,116,1.0,6-10,Empresa privada,Com informação
+18899,city_73,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,50-99,NGO,never,232,0.0,11-20,ONG/Outros,Com informação
+28749,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,100-500,Funded Startup,1,82,0.0,1-5,Startup,Com informação
+10951,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,53,0.0,>20,Empresa privada,Com informação
+10415,city_75,0.939,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,,1,56,0.0,>20,,Sem informação
+10336,city_102,0.804,Male,Has relevent experience,no_enrollment,Graduate,No Major,17,,,1,112,0.0,11-20,,Sem informação
+16983,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,Humanities,1,50-99,Public Sector,never,48,0.0,1-5,Setor público,Com informação
+7428,city_138,0.836,Male,No relevent experience,Full time course,Graduate,STEM,6,,,1,32,1.0,6-10,,Sem informação
+7003,city_144,0.84,,Has relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Public Sector,1,78,1.0,6-10,Setor público,Com informação
+32466,city_67,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,,,4,108,0.0,6-10,,Sem informação
+9252,city_21,0.624,,No relevent experience,Full time course,Graduate,STEM,3,,,1,22,1.0,1-5,,Sem informação
+14142,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Pvt Ltd,>4,7,0.0,1-5,Empresa privada,Com informação
+12588,city_11,0.55,Male,No relevent experience,Full time course,Graduate,STEM,3,,,never,72,1.0,1-5,,Sem informação
+32208,city_64,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Funded Startup,1,78,0.0,6-10,Startup,Com informação
+6644,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Other,>20,,,4,20,1.0,>20,,Sem informação
+15190,city_16,0.91,Male,No relevent experience,Full time course,Masters,STEM,13,,Public Sector,1,57,1.0,11-20,Setor público,Com informação
+25716,city_165,0.903,Female,No relevent experience,Part time course,Masters,STEM,7,,Public Sector,1,6,0.0,6-10,Setor público,Com informação
+29990,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10/49,Funded Startup,2,74,0.0,>20,Startup,Com informação
+3248,city_102,0.804,Male,No relevent experience,no_enrollment,High School,,4,,Pvt Ltd,never,94,0.0,1-5,Empresa privada,Com informação
+8963,city_103,0.92,Female,Has relevent experience,no_enrollment,High School,,12,,NGO,2,16,0.0,11-20,ONG/Outros,Com informação
+24200,city_114,0.926,Other,No relevent experience,no_enrollment,Masters,STEM,7,10000+,Pvt Ltd,1,48,0.0,6-10,Empresa privada,Com informação
+32869,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,Public Sector,>4,92,1.0,11-20,Setor público,Com informação
+16269,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,17,10000+,Pvt Ltd,2,15,0.0,11-20,Empresa privada,Com informação
+9472,city_7,0.647,Female,Has relevent experience,no_enrollment,Masters,STEM,3,10000+,,1,100,0.0,1-5,,Sem informação
+9863,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,Humanities,>20,,,2,44,1.0,>20,,Sem informação
+27116,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,10000+,Pvt Ltd,4,76,1.0,11-20,Empresa privada,Com informação
+13694,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,<10,Early Stage Startup,1,105,0.0,1-5,Startup,Com informação
+1303,city_75,0.939,Other,No relevent experience,no_enrollment,Graduate,Other,>20,,,>4,13,0.0,>20,,Sem informação
+21313,city_102,0.804,,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,1,31,0.0,1-5,Empresa privada,Com informação
+8855,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,500-999,Pvt Ltd,>4,106,0.0,6-10,Empresa privada,Com informação
+28745,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,100-500,Pvt Ltd,2,90,0.0,6-10,Empresa privada,Com informação
+7569,city_114,0.926,Male,Has relevent experience,Part time course,Graduate,STEM,>20,,,>4,5,0.0,>20,,Sem informação
+1060,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,>4,24,0.0,>20,Empresa privada,Com informação
+8512,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,2,44,0.0,>20,Empresa privada,Com informação
+25219,city_21,0.624,,Has relevent experience,Part time course,Graduate,STEM,11,10/49,Pvt Ltd,>4,109,1.0,11-20,Empresa privada,Com informação
+18968,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Arts,12,50-99,Pvt Ltd,3,28,0.0,11-20,Empresa privada,Com informação
+27250,city_67,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,,,3,52,1.0,6-10,,Sem informação
+33341,city_75,0.939,Male,Has relevent experience,Full time course,High School,,6,50-99,Pvt Ltd,1,28,0.0,6-10,Empresa privada,Com informação
+14610,city_90,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,1,11,0.0,6-10,Empresa privada,Com informação
+31240,city_114,0.926,Male,Has relevent experience,Part time course,Graduate,STEM,3,100-500,Pvt Ltd,1,31,0.0,1-5,Empresa privada,Com informação
+26363,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,35,1.0,>20,,Sem informação
+16924,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,Arts,7,1000-4999,Pvt Ltd,3,21,0.0,6-10,Empresa privada,Com informação
+18661,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,6,,,2,39,1.0,6-10,,Sem informação
+24637,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,102,0.0,>20,Empresa privada,Com informação
+20600,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,,,1,306,0.0,11-20,,Sem informação
+24036,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,9,,,never,78,1.0,6-10,,Sem informação
+10901,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,9,50-99,Pvt Ltd,4,162,0.0,6-10,Empresa privada,Com informação
+23598,city_114,0.926,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Pvt Ltd,>4,63,0.0,>20,Empresa privada,Com informação
+8862,city_89,0.925,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,>4,162,1.0,6-10,Empresa privada,Com informação
+23159,city_11,0.55,,Has relevent experience,Part time course,Masters,STEM,8,,,1,150,1.0,6-10,,Sem informação
+14469,city_74,0.579,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-500,Pvt Ltd,1,34,1.0,1-5,Empresa privada,Com informação
+2909,city_64,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,3,280,0.0,6-10,Empresa privada,Com informação
+12803,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,16,1000-4999,Public Sector,2,146,1.0,11-20,Setor público,Com informação
+17902,city_16,0.91,Female,Has relevent experience,no_enrollment,Graduate,Humanities,2,50-99,Funded Startup,1,147,0.0,1-5,Startup,Com informação
+14363,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,1,70,0.0,11-20,Empresa privada,Com informação
+5989,city_162,0.767,,No relevent experience,Full time course,Primary School,,3,,,1,50,1.0,1-5,,Sem informação
+18178,city_20,0.7959999999999999,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,79,0.0,>20,Empresa privada,Com informação
+30250,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,13,10/49,Funded Startup,3,154,0.0,11-20,Startup,Com informação
+17068,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,3,100-500,Pvt Ltd,1,81,1.0,1-5,Empresa privada,Com informação
+32997,city_136,0.897,Male,No relevent experience,Full time course,Graduate,STEM,3,,,never,54,0.0,1-5,,Sem informação
+30678,city_102,0.804,Male,No relevent experience,Full time course,Graduate,STEM,1,,,1,29,0.0,1-5,,Sem informação
+2563,city_162,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,1000-4999,Pvt Ltd,1,48,0.0,11-20,Empresa privada,Com informação
+6065,city_90,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-500,,2,6,1.0,1-5,,Sem informação
+27616,city_116,0.743,,Has relevent experience,Full time course,Graduate,STEM,5,50-99,Pvt Ltd,1,107,0.0,1-5,Empresa privada,Com informação
+18520,city_138,0.836,Male,No relevent experience,Part time course,Masters,Humanities,19,10/49,Pvt Ltd,4,20,0.0,11-20,Empresa privada,Com informação
+31383,city_103,0.92,Male,No relevent experience,no_enrollment,Primary School,,3,,Pvt Ltd,never,11,0.0,1-5,Empresa privada,Com informação
+1084,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10000+,Pvt Ltd,1,222,0.0,1-5,Empresa privada,Com informação
+8557,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,,Pvt Ltd,>4,78,0.0,>20,Empresa privada,Com informação
+19834,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,5000-9999,Pvt Ltd,never,7,1.0,6-10,Empresa privada,Com informação
+32080,city_11,0.55,,Has relevent experience,no_enrollment,Graduate,STEM,2,100-500,Pvt Ltd,2,46,0.0,1-5,Empresa privada,Com informação
+9203,city_102,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,1000-4999,Pvt Ltd,1,43,0.0,>20,Empresa privada,Com informação
+4874,city_73,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Public Sector,>4,28,0.0,>20,Setor público,Com informação
+1842,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,10000+,Pvt Ltd,1,102,1.0,1-5,Empresa privada,Com informação
+32566,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,Humanities,13,,,>4,226,0.0,11-20,,Sem informação
+4521,city_90,0.698,Male,No relevent experience,Full time course,Graduate,STEM,11,,Pvt Ltd,never,22,1.0,11-20,Empresa privada,Com informação
+1102,city_16,0.91,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,100-500,NGO,1,23,0.0,>20,ONG/Outros,Com informação
+6849,city_143,0.74,Male,No relevent experience,no_enrollment,Graduate,STEM,>20,,,never,31,0.0,>20,,Sem informação
+9114,city_45,0.89,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,2,8,0.0,>20,Empresa privada,Com informação
+9569,city_46,0.762,Male,Has relevent experience,Full time course,Graduate,STEM,12,100-500,Pvt Ltd,3,6,0.0,11-20,Empresa privada,Com informação
+2873,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,4,,,1,94,0.0,1-5,,Sem informação
+15222,city_160,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,4,,,1,155,1.0,1-5,,Sem informação
+24949,city_64,0.6659999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-500,NGO,1,1,0.0,6-10,ONG/Outros,Com informação
+15686,city_116,0.743,,No relevent experience,no_enrollment,Masters,STEM,7,,Pvt Ltd,1,30,0.0,6-10,Empresa privada,Com informação
+28829,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,9,100-500,Pvt Ltd,1,74,1.0,6-10,Empresa privada,Com informação
+31308,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,100-500,Pvt Ltd,1,32,0.0,6-10,Empresa privada,Com informação
+1343,city_103,0.92,Other,Has relevent experience,no_enrollment,High School,,4,,,never,56,0.0,1-5,,Sem informação
+5251,city_21,0.624,Male,No relevent experience,Part time course,Graduate,STEM,7,,,never,24,1.0,6-10,,Sem informação
+24461,city_136,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,6,50-99,Pvt Ltd,1,81,0.0,6-10,Empresa privada,Com informação
+27961,city_21,0.624,,No relevent experience,Full time course,High School,,2,,,never,32,0.0,1-5,,Sem informação
+32900,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,3,10000+,Pvt Ltd,2,55,1.0,1-5,Empresa privada,Com informação
+30786,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,1000-4999,Public Sector,3,88,1.0,11-20,Setor público,Com informação
+7488,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,10,10000+,Pvt Ltd,1,20,0.0,6-10,Empresa privada,Com informação
+12727,city_102,0.804,Male,Has relevent experience,no_enrollment,Masters,STEM,8,10/49,Pvt Ltd,1,2,0.0,6-10,Empresa privada,Com informação
+612,city_103,0.92,Male,No relevent experience,Full time course,High School,,4,,NGO,1,332,1.0,1-5,ONG/Outros,Com informação
+14943,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,12,1000-4999,Pvt Ltd,>4,36,1.0,11-20,Empresa privada,Com informação
+31970,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-500,Pvt Ltd,1,9,0.0,6-10,Empresa privada,Com informação
+19882,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,,,>4,72,0.0,11-20,,Sem informação
+155,city_44,0.725,,No relevent experience,Full time course,Graduate,STEM,5,,Pvt Ltd,never,190,0.0,1-5,Empresa privada,Com informação
+12929,city_103,0.92,Male,Has relevent experience,Part time course,High School,,2,<10,Pvt Ltd,1,112,0.0,1-5,Empresa privada,Com informação
+2836,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-500,Pvt Ltd,3,12,0.0,6-10,Empresa privada,Com informação
+10005,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,,,>4,192,1.0,11-20,,Sem informação
+23406,city_71,0.884,Male,Has relevent experience,no_enrollment,Graduate,Humanities,6,,,>4,28,0.0,6-10,,Sem informação
+21916,city_104,0.924,,Has relevent experience,no_enrollment,Graduate,STEM,14,,,1,108,0.0,11-20,,Sem informação
+14592,city_101,0.5579999999999999,,No relevent experience,Full time course,Graduate,STEM,<1,<10,Early Stage Startup,1,53,1.0,<1,Startup,Com informação
+25199,city_97,0.925,Male,No relevent experience,Full time course,Graduate,STEM,12,,,2,20,0.0,11-20,,Sem informação
+11496,city_114,0.926,Male,No relevent experience,Full time course,Primary School,,5,,,never,52,0.0,1-5,,Sem informação
+21628,city_67,0.855,Male,Has relevent experience,Full time course,High School,,4,100-500,,never,2,0.0,1-5,,Sem informação
+13585,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,10/49,Pvt Ltd,>4,35,0.0,11-20,Empresa privada,Com informação
+11538,city_103,0.92,,No relevent experience,no_enrollment,Primary School,,<1,,,never,29,1.0,<1,,Sem informação
+8634,city_61,0.913,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,>4,50,0.0,>20,,Sem informação
+9165,city_173,0.878,Male,Has relevent experience,no_enrollment,High School,,>20,,,>4,158,0.0,>20,,Sem informação
+7383,city_67,0.855,Female,Has relevent experience,Part time course,Graduate,STEM,7,10000+,Pvt Ltd,1,41,0.0,6-10,Empresa privada,Com informação
+15584,city_57,0.866,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,222,0.0,>20,,Sem informação
+33306,city_50,0.8959999999999999,Male,No relevent experience,Full time course,Masters,STEM,10,,,4,34,1.0,6-10,,Sem informação
+3017,city_104,0.924,Male,No relevent experience,Full time course,,,8,,,never,17,1.0,6-10,,Sem informação
+31506,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,2,21,0.0,6-10,Empresa privada,Com informação
+24729,city_104,0.924,,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,1,94,0.0,6-10,Empresa privada,Com informação
+19444,city_134,0.698,Male,No relevent experience,Full time course,Graduate,STEM,5,,,1,136,1.0,1-5,,Sem informação
+5604,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,7,5000-9999,Pvt Ltd,3,34,0.0,6-10,Empresa privada,Com informação
+19905,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,1000-4999,Pvt Ltd,>4,62,0.0,11-20,Empresa privada,Com informação
+19334,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,2,24,0.0,>20,Empresa privada,Com informação
+17003,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,10000+,Pvt Ltd,>4,78,0.0,11-20,Empresa privada,Com informação
+12166,city_157,0.769,,No relevent experience,no_enrollment,High School,,1,,,,29,0.0,1-5,,Sem informação
+3024,city_98,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Public Sector,1,246,0.0,>20,Setor público,Com informação
+10891,city_23,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,500-999,Pvt Ltd,>4,15,0.0,11-20,Empresa privada,Com informação
+7274,city_24,0.698,Male,Has relevent experience,no_enrollment,Masters,STEM,12,500-999,,1,11,0.0,11-20,,Sem informação
+19080,city_50,0.8959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,500-999,Funded Startup,2,57,0.0,11-20,Startup,Com informação
+11909,city_70,0.698,,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,>4,37,0.0,6-10,Empresa privada,Com informação
+17863,city_99,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,94,1.0,>20,,Sem informação
+20526,city_21,0.624,,Has relevent experience,Full time course,Graduate,STEM,<1,50-99,Pvt Ltd,1,28,1.0,<1,Empresa privada,Com informação
+28926,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,Business Degree,5,10000+,Pvt Ltd,>4,12,0.0,1-5,Empresa privada,Com informação
+22371,city_99,0.915,Male,Has relevent experience,Full time course,Graduate,STEM,8,,,1,68,0.0,6-10,,Sem informação
+15204,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,Humanities,>20,<10,NGO,>4,88,0.0,>20,ONG/Outros,Com informação
+2162,city_89,0.925,Male,Has relevent experience,no_enrollment,Graduate,Arts,20,50-99,Pvt Ltd,2,4,0.0,11-20,Empresa privada,Com informação
+14496,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,109,0.0,>20,Empresa privada,Com informação
+8700,city_145,0.555,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,7,1.0,>20,,Sem informação
+258,city_160,0.92,,No relevent experience,Full time course,Graduate,STEM,3,,Pvt Ltd,never,31,0.0,1-5,Empresa privada,Com informação
+16217,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,Humanities,>20,,Pvt Ltd,1,17,0.0,>20,Empresa privada,Com informação
+8183,city_45,0.89,,Has relevent experience,no_enrollment,Graduate,STEM,16,500-999,Pvt Ltd,1,4,0.0,11-20,Empresa privada,Com informação
+21255,city_99,0.915,Male,Has relevent experience,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,2,26,0.0,>20,Empresa privada,Com informação
+29616,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,1,54,0.0,>20,Empresa privada,Com informação
+27010,city_21,0.624,Male,No relevent experience,Full time course,Graduate,STEM,3,,,never,42,1.0,1-5,,Sem informação
+1052,city_16,0.91,,No relevent experience,Full time course,Masters,STEM,15,,,>4,12,1.0,11-20,,Sem informação
+24999,city_36,0.893,,No relevent experience,no_enrollment,Masters,Other,9,10000+,Pvt Ltd,4,14,0.0,6-10,Empresa privada,Com informação
+28148,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Early Stage Startup,1,72,0.0,6-10,Startup,Com informação
+896,city_114,0.926,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,10000+,Pvt Ltd,2,96,0.0,>20,Empresa privada,Com informação
+9281,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,Humanities,4,50-99,Pvt Ltd,1,85,1.0,1-5,Empresa privada,Com informação
+21174,city_103,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,63,0.0,>20,Empresa privada,Com informação
+16625,city_21,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,4,<10,Early Stage Startup,1,78,1.0,1-5,Startup,Com informação
+1780,city_103,0.92,Male,No relevent experience,no_enrollment,,,5,,,1,41,0.0,1-5,,Sem informação
+32476,city_103,0.92,,Has relevent experience,no_enrollment,Masters,STEM,>20,100-500,Pvt Ltd,>4,326,0.0,>20,Empresa privada,Com informação
+23618,city_98,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,5000-9999,Public Sector,never,134,0.0,>20,Setor público,Com informação
+24680,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,5,1000-4999,NGO,3,6,0.0,1-5,ONG/Outros,Com informação
+17846,city_116,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,6,10000+,Pvt Ltd,1,109,0.0,6-10,Empresa privada,Com informação
+11162,city_45,0.89,Male,No relevent experience,no_enrollment,High School,,4,<10,Pvt Ltd,1,39,0.0,1-5,Empresa privada,Com informação
+23684,city_102,0.804,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,,NGO,1,166,0.0,11-20,ONG/Outros,Com informação
+31868,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,100-500,Pvt Ltd,1,6,0.0,11-20,Empresa privada,Com informação
+32473,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,4,1.0,>20,Empresa privada,Com informação
+20525,city_21,0.624,,No relevent experience,Full time course,Graduate,STEM,<1,,,1,13,1.0,<1,,Sem informação
+22528,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,,16,,,>4,67,0.0,11-20,,Sem informação
+9471,city_36,0.893,,Has relevent experience,no_enrollment,Masters,STEM,>20,10/49,Pvt Ltd,never,95,0.0,>20,Empresa privada,Com informação
+6397,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Funded Startup,>4,43,0.0,>20,Startup,Com informação
+31553,city_98,0.949,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,1000-4999,,2,64,0.0,11-20,,Sem informação
+27115,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,4,94,0.0,>20,Empresa privada,Com informação
+26635,city_20,0.7959999999999999,,Has relevent experience,Part time course,Graduate,STEM,4,50-99,Pvt Ltd,1,11,0.0,1-5,Empresa privada,Com informação
+3816,city_138,0.836,Male,Has relevent experience,no_enrollment,Masters,STEM,,500-999,,1,21,0.0,,,Sem informação
+23597,city_75,0.939,Male,Has relevent experience,Full time course,Phd,STEM,>20,,,>4,50,0.0,>20,,Sem informação
+17575,city_65,0.802,Male,No relevent experience,no_enrollment,Graduate,Arts,11,50-99,Pvt Ltd,>4,48,0.0,11-20,Empresa privada,Com informação
+6429,city_75,0.939,Female,Has relevent experience,no_enrollment,Graduate,STEM,11,100-500,Pvt Ltd,>4,105,0.0,11-20,Empresa privada,Com informação
+30439,city_78,0.579,,Has relevent experience,no_enrollment,Graduate,STEM,8,,,4,28,0.0,6-10,,Sem informação
+218,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Other,3,100-500,Pvt Ltd,2,106,0.0,1-5,Empresa privada,Com informação
+1580,city_16,0.91,Male,No relevent experience,Full time course,Graduate,STEM,1,,,never,4,0.0,1-5,,Sem informação
+1067,city_103,0.92,Male,Has relevent experience,Part time course,Masters,STEM,3,1000-4999,Pvt Ltd,2,28,0.0,1-5,Empresa privada,Com informação
+1555,city_16,0.91,,Has relevent experience,no_enrollment,Graduate,STEM,10,,,1,39,0.0,6-10,,Sem informação
+12294,city_123,0.738,,No relevent experience,no_enrollment,High School,,4,,,never,12,0.0,1-5,,Sem informação
+32265,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,1,35,0.0,>20,Empresa privada,Com informação
+26421,city_21,0.624,Male,No relevent experience,no_enrollment,High School,,6,,,1,126,0.0,6-10,,Sem informação
+22877,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,>4,107,0.0,>20,Empresa privada,Com informação
+5979,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,6,1.0,6-10,Empresa privada,Com informação
+30151,city_123,0.738,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,1,94,0.0,11-20,Empresa privada,Com informação
+12486,city_162,0.767,Female,Has relevent experience,no_enrollment,Masters,STEM,6,50-99,Pvt Ltd,3,29,1.0,6-10,Empresa privada,Com informação
+1907,city_102,0.804,Male,No relevent experience,no_enrollment,High School,,2,<10,NGO,never,145,0.0,1-5,ONG/Outros,Com informação
+21130,city_103,0.92,,Has relevent experience,no_enrollment,Masters,STEM,8,10000+,Pvt Ltd,never,42,0.0,6-10,Empresa privada,Com informação
+3839,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,3,50-99,Public Sector,2,70,0.0,1-5,Setor público,Com informação
+814,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,14,100-500,Pvt Ltd,4,60,0.0,11-20,Empresa privada,Com informação
+9188,city_64,0.6659999999999999,Female,No relevent experience,no_enrollment,Graduate,STEM,6,10/49,Funded Startup,never,70,0.0,6-10,Startup,Com informação
+19006,city_103,0.92,,Has relevent experience,no_enrollment,,,10,5000-9999,Pvt Ltd,1,20,0.0,6-10,Empresa privada,Com informação
+22613,city_27,0.848,,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,3,42,0.0,6-10,Empresa privada,Com informação
+3802,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,1,24,0.0,>20,,Sem informação
+7882,city_71,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,500-999,Pvt Ltd,1,58,1.0,6-10,Empresa privada,Com informação
+26387,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,51,0.0,>20,,Sem informação
+4238,city_162,0.767,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,,,1,60,1.0,11-20,,Sem informação
+14413,city_165,0.903,,Has relevent experience,Full time course,Masters,Humanities,9,<10,Pvt Ltd,>4,100,0.0,6-10,Empresa privada,Com informação
+17022,city_103,0.92,Male,Has relevent experience,no_enrollment,Primary School,,3,50-99,Pvt Ltd,1,7,0.0,1-5,Empresa privada,Com informação
+13225,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,50-99,Pvt Ltd,>4,41,0.0,11-20,Empresa privada,Com informação
+3604,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,No Major,16,,,>4,95,1.0,11-20,,Sem informação
+25387,city_103,0.92,,No relevent experience,Full time course,Graduate,STEM,<1,,,,2,0.0,<1,,Sem informação
+269,city_103,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,31,1.0,11-20,Empresa privada,Com informação
+2350,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,13,10/49,Pvt Ltd,2,145,1.0,11-20,Empresa privada,Com informação
+7538,city_46,0.762,Male,No relevent experience,no_enrollment,Masters,STEM,10,5000-9999,Public Sector,1,122,0.0,6-10,Setor público,Com informação
+15070,city_1,0.847,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,>4,152,0.0,11-20,Empresa privada,Com informação
+24150,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,4,5000-9999,Pvt Ltd,4,54,1.0,1-5,Empresa privada,Com informação
+6530,city_162,0.767,,Has relevent experience,Full time course,Graduate,STEM,3,100-500,Pvt Ltd,1,13,0.0,1-5,Empresa privada,Com informação
+26988,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10000+,Public Sector,>4,57,1.0,11-20,Setor público,Com informação
+13048,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,4,8,0.0,6-10,Empresa privada,Com informação
+6038,city_57,0.866,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,100-500,Pvt Ltd,1,24,0.0,11-20,Empresa privada,Com informação
+28463,city_28,0.939,Male,No relevent experience,Full time course,Graduate,STEM,9,,,2,39,0.0,6-10,,Sem informação
+32926,city_104,0.924,Female,No relevent experience,Part time course,Graduate,STEM,19,10000+,Pvt Ltd,4,81,0.0,11-20,Empresa privada,Com informação
+29481,city_67,0.855,Male,No relevent experience,no_enrollment,,,7,,,1,80,1.0,6-10,,Sem informação
+2985,city_55,0.7390000000000001,Male,Has relevent experience,Full time course,Graduate,STEM,4,500-999,Public Sector,never,69,0.0,1-5,Setor público,Com informação
+25835,city_159,0.843,Male,Has relevent experience,no_enrollment,High School,,>20,,,>4,44,0.0,>20,,Sem informação
+4444,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,2,102,0.0,11-20,Empresa privada,Com informação
+3643,city_61,0.913,Male,Has relevent experience,no_enrollment,,,>20,<10,Public Sector,>4,3,0.0,>20,Setor público,Com informação
+19264,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,>20,100-500,Pvt Ltd,3,10,0.0,>20,Empresa privada,Com informação
+14082,city_103,0.92,Male,No relevent experience,no_enrollment,Primary School,,3,,,never,73,0.0,1-5,,Sem informação
+7972,city_28,0.939,,No relevent experience,,Graduate,STEM,10,1000-4999,,1,22,0.0,6-10,,Sem informação
+21723,city_71,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,11,500-999,Funded Startup,1,22,0.0,11-20,Startup,Com informação
+32332,city_136,0.897,Male,Has relevent experience,no_enrollment,Graduate,STEM,18,,,>4,98,0.0,11-20,,Sem informação
+5653,city_67,0.855,,Has relevent experience,no_enrollment,Graduate,STEM,5,,,1,86,0.0,1-5,,Sem informação
+7533,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Funded Startup,1,80,0.0,6-10,Startup,Com informação
+11637,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,9,10000+,Pvt Ltd,>4,52,0.0,6-10,Empresa privada,Com informação
+1286,city_160,0.92,Other,Has relevent experience,no_enrollment,Graduate,STEM,15,100-500,Pvt Ltd,>4,53,0.0,11-20,Empresa privada,Com informação
+20999,city_103,0.92,,No relevent experience,Part time course,Masters,Humanities,10,,,2,106,0.0,6-10,,Sem informação
+16541,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,<1,50-99,Pvt Ltd,3,51,1.0,<1,Empresa privada,Com informação
+5139,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,2,,,never,80,0.0,1-5,,Sem informação
+1970,city_21,0.624,Male,No relevent experience,no_enrollment,Masters,STEM,15,,Pvt Ltd,,12,1.0,11-20,Empresa privada,Com informação
+6493,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,2,68,0.0,>20,Empresa privada,Com informação
+8948,city_19,0.682,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,500-999,Public Sector,1,19,0.0,11-20,Setor público,Com informação
+22043,city_136,0.897,Female,Has relevent experience,no_enrollment,Masters,STEM,7,,,1,48,0.0,6-10,,Sem informação
+12517,city_71,0.884,,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,53,0.0,>20,,Sem informação
+3082,city_83,0.923,Male,Has relevent experience,no_enrollment,Masters,STEM,19,10000+,Pvt Ltd,1,37,0.0,11-20,Empresa privada,Com informação
+22084,city_114,0.926,Male,No relevent experience,no_enrollment,High School,,9,,,never,13,0.0,6-10,,Sem informação
+24737,city_13,0.8270000000000001,Male,No relevent experience,Full time course,High School,,3,,,never,23,0.0,1-5,,Sem informação
+16253,city_160,0.92,,No relevent experience,no_enrollment,Graduate,STEM,10,100-500,Pvt Ltd,>4,57,0.0,6-10,Empresa privada,Com informação
+27146,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,5,10/49,,never,69,0.0,1-5,,Sem informação
+14614,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,100-500,Pvt Ltd,1,53,1.0,1-5,Empresa privada,Com informação
+6936,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,3,10/49,Pvt Ltd,1,36,0.0,1-5,Empresa privada,Com informação
+22755,city_73,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,19,100-500,Pvt Ltd,>4,74,0.0,11-20,Empresa privada,Com informação
+24030,city_75,0.939,Male,No relevent experience,no_enrollment,High School,,6,50-99,Pvt Ltd,>4,162,0.0,6-10,Empresa privada,Com informação
+19620,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,15,<10,Pvt Ltd,>4,76,0.0,11-20,Empresa privada,Com informação
+28722,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,6,500-999,Pvt Ltd,never,12,0.0,6-10,Empresa privada,Com informação
+12715,city_16,0.91,Male,No relevent experience,no_enrollment,Phd,STEM,>20,,Public Sector,2,220,0.0,>20,Setor público,Com informação
+18390,city_54,0.856,,Has relevent experience,no_enrollment,Graduate,STEM,2,,,1,32,1.0,1-5,,Sem informação
+32653,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Public Sector,2,55,0.0,6-10,Setor público,Com informação
+22393,city_21,0.624,,Has relevent experience,Part time course,Graduate,STEM,8,1000-4999,Pvt Ltd,2,40,1.0,6-10,Empresa privada,Com informação
+18871,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,11,50-99,Pvt Ltd,3,41,0.0,11-20,Empresa privada,Com informação
+16527,city_21,0.624,,Has relevent experience,Part time course,Masters,STEM,3,500-999,Pvt Ltd,1,55,1.0,1-5,Empresa privada,Com informação
+17766,city_23,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Funded Startup,1,27,0.0,>20,Startup,Com informação
+14326,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,13,10000+,Pvt Ltd,2,22,0.0,11-20,Empresa privada,Com informação
+16599,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,Pvt Ltd,2,61,0.0,6-10,Empresa privada,Com informação
+12371,city_21,0.624,Male,No relevent experience,Full time course,Graduate,STEM,3,100-500,Pvt Ltd,1,94,0.0,1-5,Empresa privada,Com informação
+16533,city_145,0.555,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,,,1,50,0.0,1-5,,Sem informação
+23666,city_109,0.701,Male,Has relevent experience,no_enrollment,Masters,STEM,16,,,1,150,0.0,11-20,,Sem informação
+9387,city_73,0.754,Male,Has relevent experience,,High School,,6,<10,Funded Startup,2,20,0.0,6-10,Startup,Com informação
+27651,city_16,0.91,,No relevent experience,no_enrollment,Graduate,STEM,14,100-500,Pvt Ltd,1,196,0.0,11-20,Empresa privada,Com informação
+24762,city_103,0.92,Male,Has relevent experience,no_enrollment,Primary School,,5,1000-4999,Pvt Ltd,never,31,0.0,1-5,Empresa privada,Com informação
+23117,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,6,,,1,47,0.0,6-10,,Sem informação
+21389,city_11,0.55,,Has relevent experience,no_enrollment,Graduate,STEM,6,<10,Pvt Ltd,2,138,0.0,6-10,Empresa privada,Com informação
+19605,city_126,0.479,,No relevent experience,,Graduate,STEM,1,100-500,Pvt Ltd,1,110,1.0,1-5,Empresa privada,Com informação
+8761,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,7,100-500,Pvt Ltd,1,32,0.0,6-10,Empresa privada,Com informação
+5237,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,No Major,6,1000-4999,Pvt Ltd,>4,48,0.0,6-10,Empresa privada,Com informação
+24436,city_21,0.624,Male,Has relevent experience,no_enrollment,High School,,14,10/49,Pvt Ltd,>4,3,1.0,11-20,Empresa privada,Com informação
+31043,city_114,0.926,Male,Has relevent experience,Full time course,Graduate,STEM,14,100-500,Pvt Ltd,2,52,0.0,11-20,Empresa privada,Com informação
+22232,city_103,0.92,Male,Has relevent experience,no_enrollment,Phd,STEM,18,10/49,Early Stage Startup,1,174,1.0,11-20,Startup,Com informação
+27972,city_162,0.767,,Has relevent experience,Full time course,Graduate,STEM,10,50-99,Pvt Ltd,2,90,0.0,6-10,Empresa privada,Com informação
+29640,city_90,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,,,1,23,0.0,6-10,,Sem informação
+29477,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,Other,15,10/49,Pvt Ltd,1,13,0.0,11-20,Empresa privada,Com informação
+31659,city_67,0.855,Male,Has relevent experience,Full time course,High School,,16,10000+,Pvt Ltd,>4,14,0.0,11-20,Empresa privada,Com informação
+5973,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,62,0.0,>20,Empresa privada,Com informação
+16200,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,<10,Early Stage Startup,3,27,0.0,6-10,Startup,Com informação
+8628,city_84,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,500-999,Pvt Ltd,1,131,0.0,6-10,Empresa privada,Com informação
+16569,city_28,0.939,Male,No relevent experience,Full time course,Graduate,STEM,14,10000+,Pvt Ltd,1,42,0.0,11-20,Empresa privada,Com informação
+20699,city_73,0.754,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,5000-9999,Pvt Ltd,3,48,0.0,11-20,Empresa privada,Com informação
+8435,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,>20,,,>4,7,1.0,>20,,Sem informação
+9400,city_128,0.527,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,<10,Pvt Ltd,never,24,0.0,11-20,Empresa privada,Com informação
+10793,city_16,0.91,Male,Has relevent experience,Full time course,Graduate,STEM,9,,,1,55,1.0,6-10,,Sem informação
+5500,city_83,0.923,,Has relevent experience,no_enrollment,Graduate,STEM,5,,,>4,15,0.0,1-5,,Sem informação
+3466,city_114,0.926,,No relevent experience,,Graduate,STEM,<1,,,never,4,0.0,<1,,Sem informação
+4227,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,15,50-99,Pvt Ltd,2,126,0.0,11-20,Empresa privada,Com informação
+1029,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,Arts,3,50-99,,1,90,0.0,1-5,,Sem informação
+16281,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,6,100-500,Pvt Ltd,2,18,1.0,6-10,Empresa privada,Com informação
+14823,city_21,0.624,Male,No relevent experience,Part time course,Graduate,No Major,5,<10,Early Stage Startup,4,46,1.0,1-5,Startup,Com informação
+31452,city_145,0.555,Male,No relevent experience,Full time course,High School,,3,,,never,46,1.0,1-5,,Sem informação
+1856,city_103,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,5,5000-9999,Pvt Ltd,1,66,0.0,1-5,Empresa privada,Com informação
+8507,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,Other,5,50-99,,2,154,0.0,1-5,,Sem informação
+10965,city_160,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,3,<10,,1,56,0.0,1-5,,Sem informação
+17079,city_16,0.91,,Has relevent experience,,Masters,STEM,>20,,,4,72,0.0,>20,,Sem informação
+22280,city_23,0.899,Male,Has relevent experience,Part time course,Graduate,STEM,15,500-999,Public Sector,>4,27,0.0,11-20,Setor público,Com informação
+24326,city_138,0.836,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,24,0.0,>20,Empresa privada,Com informação
+10295,city_61,0.913,Male,Has relevent experience,no_enrollment,High School,,>20,1000-4999,Pvt Ltd,3,46,0.0,>20,Empresa privada,Com informação
+16561,city_16,0.91,,Has relevent experience,no_enrollment,High School,,4,,,never,56,0.0,1-5,,Sem informação
+2719,city_120,0.78,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,178,0.0,11-20,Empresa privada,Com informação
+944,city_21,0.624,,Has relevent experience,Part time course,High School,,1,<10,Pvt Ltd,never,10,1.0,1-5,Empresa privada,Com informação
+10658,city_21,0.624,,No relevent experience,no_enrollment,Graduate,STEM,8,,,>4,116,1.0,6-10,,Sem informação
+25439,city_23,0.899,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,1000-4999,Pvt Ltd,1,32,0.0,1-5,Empresa privada,Com informação
+19770,city_11,0.55,Male,No relevent experience,Full time course,Graduate,STEM,5,10/49,,1,102,1.0,1-5,,Sem informação
+28373,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,2,,,1,32,0.0,1-5,,Sem informação
+3004,city_104,0.924,Male,Has relevent experience,no_enrollment,Masters,Humanities,7,<10,Pvt Ltd,1,163,0.0,6-10,Empresa privada,Com informação
+10488,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,<1,50-99,Funded Startup,1,36,1.0,<1,Startup,Com informação
+31108,city_24,0.698,Male,No relevent experience,Full time course,Graduate,STEM,5,,,never,17,1.0,1-5,,Sem informação
+26616,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,2,60,0.0,>20,,Sem informação
+22549,city_67,0.855,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,,Pvt Ltd,3,38,0.0,6-10,Empresa privada,Com informação
+5116,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,50-99,Pvt Ltd,4,165,0.0,11-20,Empresa privada,Com informação
+674,city_73,0.754,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Early Stage Startup,>4,46,0.0,>20,Startup,Com informação
+8769,city_11,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,50-99,Pvt Ltd,1,74,0.0,1-5,Empresa privada,Com informação
+4489,city_149,0.6890000000000001,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,,,2,135,0.0,6-10,,Sem informação
+2958,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,10/49,Pvt Ltd,1,18,1.0,6-10,Empresa privada,Com informação
+11429,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,17,10000+,Pvt Ltd,>4,29,0.0,11-20,Empresa privada,Com informação
+30911,city_45,0.89,Male,Has relevent experience,no_enrollment,High School,,9,100-500,Pvt Ltd,1,69,0.0,6-10,Empresa privada,Com informação
+3215,city_160,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,9,10/49,Early Stage Startup,1,16,0.0,6-10,Startup,Com informação
+11253,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,1,156,0.0,1-5,Empresa privada,Com informação
+22107,city_71,0.884,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,>4,51,0.0,>20,,Sem informação
+23611,city_78,0.579,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,1,74,1.0,6-10,Empresa privada,Com informação
+2867,city_26,0.698,Male,Has relevent experience,no_enrollment,High School,,11,100-500,Pvt Ltd,1,294,0.0,11-20,Empresa privada,Com informação
+4513,city_67,0.855,,Has relevent experience,no_enrollment,Graduate,Humanities,17,100-500,Pvt Ltd,2,150,0.0,11-20,Empresa privada,Com informação
+26308,city_138,0.836,Male,No relevent experience,Full time course,Graduate,STEM,6,,,1,73,0.0,6-10,,Sem informação
+12618,city_11,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,1,10,0.0,6-10,Empresa privada,Com informação
+19040,city_16,0.91,Male,No relevent experience,Full time course,Masters,STEM,4,,,1,50,0.0,1-5,,Sem informação
+4778,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,10000+,Pvt Ltd,>4,85,0.0,6-10,Empresa privada,Com informação
+23595,city_103,0.92,Male,No relevent experience,Full time course,Graduate,STEM,5,,,never,98,0.0,1-5,,Sem informação
+32173,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,2,100-500,Pvt Ltd,1,140,1.0,1-5,Empresa privada,Com informação
+29862,city_160,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,7,50-99,NGO,2,74,0.0,6-10,ONG/Outros,Com informação
+2412,city_136,0.897,Male,Has relevent experience,no_enrollment,Masters,STEM,12,<10,Funded Startup,2,113,0.0,11-20,Startup,Com informação
+21142,city_99,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,50-99,Pvt Ltd,2,55,0.0,6-10,Empresa privada,Com informação
+11981,city_74,0.579,,Has relevent experience,no_enrollment,Masters,STEM,5,50-99,Pvt Ltd,1,79,1.0,1-5,Empresa privada,Com informação
+3284,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,16,100-500,Pvt Ltd,>4,64,0.0,11-20,Empresa privada,Com informação
+25724,city_16,0.91,Male,No relevent experience,no_enrollment,Masters,STEM,14,10000+,NGO,>4,88,0.0,11-20,ONG/Outros,Com informação
+30074,city_46,0.762,Male,No relevent experience,Full time course,High School,,8,,,1,36,0.0,6-10,,Sem informação
+11937,city_149,0.6890000000000001,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-500,NGO,1,105,0.0,1-5,ONG/Outros,Com informação
+8244,city_23,0.899,Male,No relevent experience,Part time course,Graduate,No Major,6,,,never,17,0.0,6-10,,Sem informação
+25010,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,500-999,Pvt Ltd,never,81,1.0,6-10,Empresa privada,Com informação
+25772,city_103,0.92,Male,Has relevent experience,no_enrollment,Phd,Arts,1,50-99,Funded Startup,1,62,1.0,1-5,Startup,Com informação
+24339,city_16,0.91,Male,Has relevent experience,Full time course,Graduate,STEM,7,100-500,Pvt Ltd,1,23,0.0,6-10,Empresa privada,Com informação
+14136,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,<10,Pvt Ltd,>4,25,0.0,>20,Empresa privada,Com informação
+23738,city_97,0.925,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,34,0.0,>20,,Sem informação
+2135,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,1,,,never,42,1.0,1-5,,Sem informação
+3294,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,1000-4999,Pvt Ltd,>4,109,0.0,>20,Empresa privada,Com informação
+5595,city_75,0.939,Male,No relevent experience,no_enrollment,Graduate,STEM,8,5000-9999,Pvt Ltd,>4,56,0.0,6-10,Empresa privada,Com informação
+746,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,10000+,Pvt Ltd,2,7,0.0,>20,Empresa privada,Com informação
+22374,city_21,0.624,,Has relevent experience,no_enrollment,Masters,STEM,11,1000-4999,Pvt Ltd,2,10,1.0,11-20,Empresa privada,Com informação
+18313,city_21,0.624,,No relevent experience,Full time course,High School,,2,,,never,15,1.0,1-5,,Sem informação
+18965,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,3,500-999,,1,59,0.0,1-5,,Sem informação
+3384,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,2,17,0.0,1-5,Empresa privada,Com informação
+32343,city_116,0.743,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,50-99,Pvt Ltd,>4,83,0.0,>20,Empresa privada,Com informação
+10752,city_67,0.855,Female,Has relevent experience,no_enrollment,Masters,STEM,9,100-500,Pvt Ltd,2,42,1.0,6-10,Empresa privada,Com informação
+17382,city_101,0.5579999999999999,Male,Has relevent experience,Full time course,Graduate,STEM,4,,,1,202,1.0,1-5,,Sem informação
+12198,city_128,0.527,Male,No relevent experience,no_enrollment,Graduate,STEM,3,500-999,Funded Startup,1,30,0.0,1-5,Startup,Com informação
+28362,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,No Major,19,10/49,Pvt Ltd,>4,42,0.0,11-20,Empresa privada,Com informação
+7452,city_114,0.926,Male,No relevent experience,Full time course,High School,,6,,,never,45,0.0,6-10,,Sem informação
+24875,city_103,0.92,,No relevent experience,Full time course,Graduate,STEM,,10/49,,1,41,1.0,,,Sem informação
+27994,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,500-999,Funded Startup,1,64,0.0,6-10,Startup,Com informação
+5812,city_21,0.624,,No relevent experience,Full time course,Masters,STEM,4,,,never,121,0.0,1-5,,Sem informação
+19590,city_90,0.698,,Has relevent experience,Full time course,Masters,STEM,7,100-500,Pvt Ltd,2,38,0.0,6-10,Empresa privada,Com informação
+15791,city_28,0.939,,Has relevent experience,no_enrollment,Graduate,STEM,12,10000+,Pvt Ltd,>4,64,1.0,11-20,Empresa privada,Com informação
+28342,city_103,0.92,,Has relevent experience,Part time course,Masters,STEM,15,1000-4999,Pvt Ltd,2,17,0.0,11-20,Empresa privada,Com informação
+14197,city_136,0.897,Male,No relevent experience,no_enrollment,Masters,STEM,7,10/49,Early Stage Startup,1,24,0.0,6-10,Startup,Com informação
+5876,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,,100-500,Pvt Ltd,,256,0.0,,Empresa privada,Com informação
+11545,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Pvt Ltd,1,120,0.0,6-10,Empresa privada,Com informação
+31726,city_21,0.624,,No relevent experience,no_enrollment,Graduate,STEM,4,,Pvt Ltd,never,57,0.0,1-5,Empresa privada,Com informação
+26352,city_16,0.91,Male,Has relevent experience,no_enrollment,Primary School,,7,500-999,Pvt Ltd,never,12,0.0,6-10,Empresa privada,Com informação
+22048,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Pvt Ltd,4,105,0.0,>20,Empresa privada,Com informação
+27128,city_103,0.92,Male,No relevent experience,Full time course,Masters,STEM,9,,Public Sector,never,166,0.0,6-10,Setor público,Com informação
+10164,city_114,0.926,Male,Has relevent experience,no_enrollment,Phd,STEM,>20,100-500,Pvt Ltd,4,42,1.0,>20,Empresa privada,Com informação
+14523,city_145,0.555,,Has relevent experience,no_enrollment,Graduate,STEM,11,100-500,Pvt Ltd,1,124,1.0,11-20,Empresa privada,Com informação
+16787,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,12,100-500,Pvt Ltd,>4,154,0.0,11-20,Empresa privada,Com informação
+22067,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,19,10000+,Pvt Ltd,>4,107,0.0,11-20,Empresa privada,Com informação
+26684,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,1000-4999,Pvt Ltd,1,152,0.0,1-5,Empresa privada,Com informação
+3105,city_116,0.743,Male,No relevent experience,Full time course,Graduate,STEM,3,,Pvt Ltd,never,47,1.0,1-5,Empresa privada,Com informação
+13423,city_21,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,6,<10,Pvt Ltd,4,34,1.0,6-10,Empresa privada,Com informação
+16154,city_103,0.92,,No relevent experience,Full time course,Graduate,STEM,2,,,never,132,1.0,1-5,,Sem informação
+25235,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,10/49,Pvt Ltd,1,136,0.0,11-20,Empresa privada,Com informação
+3385,city_71,0.884,Male,Has relevent experience,no_enrollment,Graduate,STEM,3,10/49,Pvt Ltd,2,40,1.0,1-5,Empresa privada,Com informação
+18778,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,500-999,Pvt Ltd,never,66,0.0,1-5,Empresa privada,Com informação
+10355,city_103,0.92,Male,Has relevent experience,Part time course,Graduate,STEM,15,50-99,Pvt Ltd,1,15,0.0,11-20,Empresa privada,Com informação
+4367,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,,,1,70,1.0,11-20,,Sem informação
+21179,city_162,0.767,Male,No relevent experience,no_enrollment,Graduate,STEM,10,,,never,52,0.0,6-10,,Sem informação
+15154,city_78,0.579,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,50-99,Pvt Ltd,1,10,1.0,11-20,Empresa privada,Com informação
+28391,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,8,50-99,Pvt Ltd,1,13,1.0,6-10,Empresa privada,Com informação
+22210,city_28,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,4,123,0.0,>20,,Sem informação
+12792,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,Arts,2,<10,Early Stage Startup,2,48,0.0,1-5,Startup,Com informação
+10674,city_100,0.887,Male,Has relevent experience,no_enrollment,Graduate,Arts,20,5000-9999,Pvt Ltd,1,26,0.0,11-20,Empresa privada,Com informação
+20529,city_101,0.5579999999999999,,Has relevent experience,no_enrollment,Graduate,STEM,6,<10,Pvt Ltd,1,100,1.0,6-10,Empresa privada,Com informação
+26721,city_21,0.624,,No relevent experience,Full time course,Graduate,STEM,10,,,never,25,1.0,6-10,,Sem informação
+23654,city_103,0.92,Male,No relevent experience,Full time course,High School,,4,,,,3,1.0,1-5,,Sem informação
+32939,city_145,0.555,Male,Has relevent experience,no_enrollment,High School,,6,,,>4,85,0.0,6-10,,Sem informação
+23430,city_20,0.7959999999999999,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,100-500,Pvt Ltd,>4,25,0.0,11-20,Empresa privada,Com informação
+26015,city_16,0.91,,Has relevent experience,no_enrollment,Graduate,STEM,9,100-500,Pvt Ltd,2,45,0.0,6-10,Empresa privada,Com informação
+32434,city_104,0.924,Male,No relevent experience,Full time course,High School,,5,,,2,25,0.0,1-5,,Sem informação
+2127,city_16,0.91,,Has relevent experience,Full time course,Graduate,STEM,5,1000-4999,Pvt Ltd,1,146,0.0,1-5,Empresa privada,Com informação
+15592,city_73,0.754,,Has relevent experience,no_enrollment,Graduate,STEM,7,1000-4999,Pvt Ltd,1,22,0.0,6-10,Empresa privada,Com informação
+2672,city_65,0.802,,Has relevent experience,no_enrollment,Masters,STEM,12,10000+,Pvt Ltd,1,62,0.0,11-20,Empresa privada,Com informação
+13024,city_45,0.89,Male,Has relevent experience,Full time course,High School,,8,50-99,Pvt Ltd,1,114,0.0,6-10,Empresa privada,Com informação
+135,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Early Stage Startup,1,23,0.0,>20,Startup,Com informação
+5916,city_11,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,100-500,Pvt Ltd,1,55,0.0,1-5,Empresa privada,Com informação
+26713,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,10000+,Pvt Ltd,2,8,0.0,1-5,Empresa privada,Com informação
+10596,city_67,0.855,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,,,1,30,0.0,1-5,,Sem informação
+28806,city_160,0.92,Male,Has relevent experience,no_enrollment,High School,,5,50-99,Funded Startup,1,24,0.0,1-5,Startup,Com informação
+33194,city_73,0.754,Male,Has relevent experience,no_enrollment,High School,,4,10/49,Pvt Ltd,2,64,0.0,1-5,Empresa privada,Com informação
+6143,city_117,0.698,,Has relevent experience,no_enrollment,Phd,STEM,15,<10,Pvt Ltd,never,138,0.0,11-20,Empresa privada,Com informação
+2720,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,7,<10,Early Stage Startup,1,4,0.0,6-10,Startup,Com informação
+11587,city_21,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,10,1000-4999,,2,14,0.0,6-10,,Sem informação
+4883,city_103,0.92,Male,No relevent experience,no_enrollment,Primary School,,3,,Pvt Ltd,never,16,0.0,1-5,Empresa privada,Com informação
+17332,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,3,100-500,Funded Startup,1,19,0.0,1-5,Startup,Com informação
+27084,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,STEM,9,500-999,Pvt Ltd,>4,52,0.0,6-10,Empresa privada,Com informação
+10504,city_75,0.939,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,>4,35,0.0,>20,Empresa privada,Com informação
+13905,city_100,0.887,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,<10,Pvt Ltd,>4,18,0.0,6-10,Empresa privada,Com informação
+25174,city_61,0.913,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,50-99,Pvt Ltd,1,110,0.0,1-5,Empresa privada,Com informação
+1501,city_99,0.915,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,500-999,Other,1,20,0.0,>20,ONG/Outros,Com informação
+9624,city_136,0.897,Female,No relevent experience,no_enrollment,Phd,Humanities,19,100-500,NGO,1,74,0.0,11-20,ONG/Outros,Com informação
+29916,city_103,0.92,Male,No relevent experience,no_enrollment,Graduate,STEM,5,,,>4,13,1.0,1-5,,Sem informação
+2180,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,50-99,Pvt Ltd,1,50,0.0,1-5,Empresa privada,Com informação
+4060,city_89,0.925,,Has relevent experience,no_enrollment,Masters,STEM,19,<10,Pvt Ltd,>4,6,0.0,11-20,Empresa privada,Com informação
+21520,city_21,0.624,,Has relevent experience,Full time course,Graduate,STEM,4,50-99,Pvt Ltd,1,9,1.0,1-5,Empresa privada,Com informação
+29713,city_100,0.887,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,,,3,31,1.0,>20,,Sem informação
+13994,city_12,0.64,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Pvt Ltd,never,40,1.0,>20,Empresa privada,Com informação
+23774,city_16,0.91,,No relevent experience,Full time course,Masters,Business Degree,3,,,>4,12,1.0,1-5,,Sem informação
+761,city_114,0.926,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,1,61,0.0,>20,Empresa privada,Com informação
+26165,city_103,0.92,Male,No relevent experience,Full time course,,,1,,,1,80,1.0,1-5,,Sem informação
+25410,city_90,0.698,Male,No relevent experience,Full time course,Graduate,STEM,<1,,,1,74,1.0,<1,,Sem informação
+26770,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,1,99,1.0,6-10,Empresa privada,Com informação
+2347,city_67,0.855,Male,Has relevent experience,Part time course,Graduate,STEM,10,50-99,Pvt Ltd,1,99,0.0,6-10,Empresa privada,Com informação
+32071,city_16,0.91,Male,No relevent experience,Full time course,Graduate,STEM,4,50-99,Pvt Ltd,1,9,1.0,1-5,Empresa privada,Com informação
+4265,city_160,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,11,,,3,51,1.0,11-20,,Sem informação
+7433,city_104,0.924,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,<10,Early Stage Startup,2,198,0.0,>20,Startup,Com informação
+15063,city_159,0.843,Male,Has relevent experience,no_enrollment,Graduate,STEM,12,50-99,Pvt Ltd,>4,35,0.0,11-20,Empresa privada,Com informação
+8493,city_114,0.926,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,10000+,Pvt Ltd,never,106,0.0,1-5,Empresa privada,Com informação
+28725,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,1,19,0.0,>20,,Sem informação
+7379,city_103,0.92,,Has relevent experience,no_enrollment,Masters,STEM,>20,500-999,Pvt Ltd,4,18,0.0,>20,Empresa privada,Com informação
+5396,city_102,0.804,Male,No relevent experience,Full time course,High School,,5,,,1,17,0.0,1-5,,Sem informação
+10806,city_71,0.884,,No relevent experience,no_enrollment,Masters,STEM,8,50-99,Pvt Ltd,1,55,0.0,6-10,Empresa privada,Com informação
+6140,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,Other,3,,,1,13,1.0,1-5,,Sem informação
+31255,city_16,0.91,Male,No relevent experience,no_enrollment,Masters,STEM,3,100-500,Pvt Ltd,1,94,0.0,1-5,Empresa privada,Com informação
+20193,city_103,0.92,Male,No relevent experience,Full time course,High School,,10,,,1,32,1.0,6-10,,Sem informação
+21977,city_21,0.624,Male,No relevent experience,no_enrollment,Graduate,STEM,19,100-500,Pvt Ltd,1,17,1.0,11-20,Empresa privada,Com informação
+1919,city_90,0.698,,No relevent experience,Full time course,High School,,4,10/49,NGO,1,334,0.0,1-5,ONG/Outros,Com informação
+15346,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,1,86,1.0,>20,,Sem informação
+21178,city_65,0.802,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,,,1,15,0.0,1-5,,Sem informação
+29856,city_83,0.923,Male,Has relevent experience,no_enrollment,Masters,Humanities,13,1000-4999,Pvt Ltd,1,46,0.0,11-20,Empresa privada,Com informação
+31081,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,2,,,1,122,1.0,1-5,,Sem informação
+11044,city_83,0.923,Male,Has relevent experience,no_enrollment,Masters,STEM,5,1000-4999,Pvt Ltd,3,66,0.0,1-5,Empresa privada,Com informação
+4073,city_103,0.92,Male,No relevent experience,Full time course,Phd,STEM,>20,,,1,28,0.0,>20,,Sem informação
+32830,city_21,0.624,Male,Has relevent experience,no_enrollment,Graduate,STEM,6,50-99,Pvt Ltd,1,20,1.0,6-10,Empresa privada,Com informação
+12754,city_136,0.897,Male,No relevent experience,Full time course,Graduate,STEM,4,10/49,Early Stage Startup,1,48,0.0,1-5,Startup,Com informação
+25005,city_16,0.91,,No relevent experience,no_enrollment,Primary School,,5,,,never,105,0.0,1-5,,Sem informação
+1145,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,9,100-500,Pvt Ltd,3,6,0.0,6-10,Empresa privada,Com informação
+23653,city_100,0.887,Male,No relevent experience,Full time course,Graduate,Other,14,,,never,35,0.0,11-20,,Sem informação
+13545,city_16,0.91,Male,Has relevent experience,no_enrollment,Masters,STEM,>20,5000-9999,Pvt Ltd,>4,124,0.0,>20,Empresa privada,Com informação
+17210,city_21,0.624,Male,Has relevent experience,Full time course,Masters,STEM,3,10/49,Pvt Ltd,never,18,1.0,1-5,Empresa privada,Com informação
+32865,city_103,0.92,Male,Has relevent experience,Part time course,Masters,Humanities,>20,50-99,NGO,1,112,0.0,>20,ONG/Outros,Com informação
+27790,city_41,0.8270000000000001,Male,No relevent experience,Full time course,High School,,14,,,2,7,0.0,11-20,,Sem informação
+17304,city_28,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,6,100-500,Pvt Ltd,1,96,0.0,6-10,Empresa privada,Com informação
+2527,city_104,0.924,Male,No relevent experience,Full time course,High School,,4,1000-4999,Pvt Ltd,1,102,1.0,1-5,Empresa privada,Com informação
+928,city_16,0.91,,Has relevent experience,no_enrollment,Graduate,STEM,10,50-99,,3,10,0.0,6-10,,Sem informação
