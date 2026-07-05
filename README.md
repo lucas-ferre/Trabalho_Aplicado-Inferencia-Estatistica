@@ -1,6 +1,6 @@
 # Trabalho Aplicado — Inferência Estatística
 
-**Tema:** Intenção de mudança de emprego entre profissionais de Ciência de Dados
+**Tema:** Intenção de mudança de emprego entre profissionais de Ciência de Dados |
 **Aluno:** Lucas Ferreira da Silva — 567414
 **Disciplina:** Análise Inferencial
 
