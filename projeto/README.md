@@ -24,7 +24,7 @@ projeto/
 └── relatorio/                   # relatório final (PDF)
 ```
 
-## Etapas implementadas (conforme especificação do trabalho)
+## Etapas implementadas 
 
 1. **Planejamento amostral** — nível de confiança de 95%; amostra piloto (n = 50);
    tamanho amostral calculado para três requisitos e tomado o máximo: média
@@ -87,7 +87,7 @@ Toda a análise é reprodutível: as sementes aleatórias estão fixadas
 ## Perguntas adicionais documentadas (não implementadas no script)
 
 Sugestões com sinal já verificado na população (censo disponível), úteis como
-extensão futura ou para a defesa oral. **As três podem ser exploradas
+extensão futura. **As três podem ser exploradas
 interativamente no app**, na aba "Testes de hipóteses":
 
 1. **Horas de treinamento diferem entre quem busca e quem não busca mudança?**
